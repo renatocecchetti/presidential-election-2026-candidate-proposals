@@ -1,0 +1,87 @@
+{
+  "candidato": "Renan Santos",
+  "partido": "Missão",
+  "arquivo_pdf": "renan-santos-missao.pdf",
+  "eixos": {
+    "Economia e Responsabilidade Fiscal": [
+      {"proposta": "Aprovar, ainda antes da posse, uma PEC de Transição baseada na 'PEC do Equilíbrio Fiscal' (protocolada por Kim Kataguiri em 2024), que desindexa benefícios previdenciários e assistenciais do salário mínimo (corrigindo-os pela inflação), desvincula os pisos de saúde e educação da receita, revisa o abono salarial e reduz renúncias fiscais.", "paginas": [10]},
+      {"proposta": "Substituir o Novo Arcabouço Fiscal por um novo modelo, incorporando medidas do caderno do CDPP: racionalização do superávit financeiro, reforma do funcionalismo com fim dos supersalários, mudanças nas emendas parlamentares, redução de isenções fiscais e uma nova lei complementar das finanças públicas.", "paginas": [10]},
+      {"proposta": "Realizar um ajuste fiscal da ordem de R$ 250 bilhões anuais, desindexando e desvinculando despesas obrigatórias e reformando a previdência para conter o crescimento das despesas obrigatórias acima do limite do arcabouço.", "paginas": [10]},
+      {"proposta": "Implementar uma agenda de reformas microeconômicas para elevar a produtividade, tratando de justiça tributária, legislação trabalhista, regulação financeira e governança pública, e reduzindo subsídios e protecionismo a setores ineficientes.", "paginas": [21, 22]}
+    ],
+    "Segurança Pública": [
+      {"proposta": "Declarar, no primeiro dia de mandato, uma Guerra ao Crime, adotando o Direito Penal do Inimigo (DPI) como framework jurídico para combater o crime organizado, com regime penal diferenciado para membros de facções.", "paginas": [12]},
+      {"proposta": "Editar sucessivos decretos de Estado de Defesa em áreas dominadas por facções para operações de retomada territorial, amparados por uma Lei Antifacção que prevê banimento judicial de organizações criminosas, proibição de seus símbolos, dissolução de entidades infiltradas, inversão do ônus da prova no confisco de bens e tribunais especializados.", "paginas": [12]},
+      {"proposta": "Empregar as Forças Armadas via Garantia da Lei e da Ordem (GLO) e intervenção federal em estados sob controle faccional, com federalização dos casos relacionados a facções e uso de força pesada em territórios classificados como dominados.", "paginas": [12, 13]},
+      {"proposta": "Retomar o controle estatal sobre portos, aeroportos e fronteiras secas com scanners tridimensionais e inteligência integrada, monitoramento aéreo, espacial e amazônico, e mecanismos de asfixia financeira das facções.", "paginas": [13]},
+      {"proposta": "Transferir lideranças criminosas condenadas para superpresídios de segurança máxima em regiões remotas, no modelo do CECOT salvadorenho, com blindagem eletromagnética e biometria contínua.", "paginas": [13]},
+      {"proposta": "Combater a criminalidade urbana com drones, totens de denúncia, patrulhamento autônomo e reconhecimento facial em tempo real, além de leis que aumentam penas para reincidência e roubo de eletrônicos.", "paginas": [13]}
+    ],
+    "Saúde": [
+      {"proposta": "Criar a ENER (Escala Nacional de Estratificação de Risco), substituindo a fila cronológica do SUS por uma 'fila viva' baseada em critérios de risco como gravidade clínica, risco de progressão, impacto funcional e vulnerabilidade social.", "paginas": [25, 26]},
+      {"proposta": "Criar um sistema digital de saúde que combine telemedicina, diagnóstico por IA, monitoramento clínico e histórico permanente, inspirado no DoctorSV de El Salvador, com implantação inicial em cidades-piloto e depois nacional.", "paginas": [26]},
+      {"proposta": "Criar o PRONTO (Prontuário Eletrônico Nacional Interoperável), conectando atenção primária, serviços especializados, hospitais públicos e privados, laboratórios e farmácias.", "paginas": [26]},
+      {"proposta": "Adotar o modelo Hub-and-Spoke para concentrar demandas complexas em centros regionais de referência e implantar vigilância epidemiológica preditiva em tempo real, além de integrar o projeto Genomas Brasil ao prontuário eletrônico.", "paginas": [26]},
+      {"proposta": "Criar o FNMA (Fundo Nacional de Modernização do Acesso), com repasses aos municípios condicionados ao desempenho.", "paginas": [26]}
+    ],
+    "Educação": [
+      {"proposta": "Priorizar a educação básica, elevando a qualidade das escolas com foco em língua portuguesa e matemática, e universalizar o sistema fônico de alfabetização e as práticas exitosas do modelo do Ceará.", "paginas": [31, 32]},
+      {"proposta": "Estabelecer ordem disciplinar rígida nas escolas, criando um código de conduta nacional para o estudante com punições objetivas e um ranking oficial de disciplina que module o VAAR (Valor Aluno Ano Resultado).", "paginas": [31, 32]},
+      {"proposta": "Transformar escolas em situação crítica em escolas cívico-militares como medida provisória contra a violência endêmica, ampliando a competência da União na educação.", "paginas": [31, 32]},
+      {"proposta": "Reformar o ensino superior, realocando recursos de cursos bacharelescos para áreas de STEM e substituindo o sistema de cotas por bolsas de mérito.", "paginas": [31, 32]},
+      {"proposta": "Mitigar a progressão continuada, adotando-a de forma parcial até sua revogação, e criar um programa de retenção de talentos para conter a fuga de cérebros.", "paginas": [31, 32]}
+    ],
+    "Trabalho e Emprego": [
+      {"proposta": "Substituir o Bolsa Família por um programa de Frentes Cidadãs (frentes de trabalho remuneradas), no qual beneficiários em idade economicamente ativa participam de projetos de bem público e são incentivados à inserção no mercado formal.", "paginas": [21, 22]},
+      {"proposta": "Flexibilizar a legislação trabalhista e reduzir a litigiosidade excessiva da justiça trabalhista para destravar a competitividade e o investimento produtivo.", "paginas": [21]},
+      {"proposta": "Flexibilizar o marco legal trabalhista nas Zonas Econômicas Especiais para viabilizar a atração de investimentos e a reindustrialização.", "paginas": [35]}
+    ],
+    "Meio Ambiente e Energia": [
+      {"proposta": "Aplicar plenamente a Lei Geral do Licenciamento Ambiental (Lei nº 15.190/2025), com uso ostensivo da Licença Ambiental Especial (LAE) para acelerar projetos estratégicos de infraestrutura e mineração.", "paginas": [24, 39]},
+      {"proposta": "Criar um marco regulatório da transmissão de energia para desbloquear o gargalo que impõe curtailment (corte) massivo da geração renovável no Nordeste.", "paginas": [24]},
+      {"proposta": "Retomar decisivamente as obras de Angra 3, explorar o hidrogênio verde com abertura para a bacia amazônica e dar atenção à fusão nuclear.", "paginas": [24]},
+      {"proposta": "Aproveitar o potencial de energia renovável do Nordeste (sol e vento) como base das Zonas Econômicas Especiais, incluindo polos de hidrogênio verde em Suape (PE).", "paginas": [34, 35]}
+    ],
+    "Agronegócio e Segurança Alimentar": [
+      {"proposta": "Encerrar as invasões de propriedade rural e restaurar a segurança jurídica no campo, revogando a Nota Técnica nº 4/2025 do Ministério do Desenvolvimento Agrário, instruindo as polícias à repressão das invasões e endurecendo a legislação penal sobre esbulho possessório.", "paginas": [42]},
+      {"proposta": "Auditar e produtivizar os cerca de 140 milhões de hectares já destinados à reforma agrária, sem criar novos assentamentos até que os existentes atinjam níveis de produtividade compatíveis, e reformular o Decreto 11.637/2023.", "paginas": [42]},
+      {"proposta": "Buscar soberania em fertilizantes, executando e ampliando o Plano Nacional de Fertilizantes, regulamentando o PL 2.780/2024 (Política Nacional de Minerais Críticos) e criando marco para exploração mineral controlada, com meta de eliminar a dependência de fertilizantes importados a partir de 2035.", "paginas": [42]},
+      {"proposta": "Impulsionar a agroindústria e cadeias produtivas completas (café, soja, cacau, carne) via Zonas Econômicas Especiais, crédito do BNDES condicionado a metas de exportação e reorganização do Plano Safra para premiar processamento e verticalização.", "paginas": [42]},
+      {"proposta": "Lançar o plano AgroBrasil 2030 e a Base Agro-Bio Nacional, unificando o acervo de dados agropecuários e viabilizando drones agrícolas e robótica movidos por IA proprietária brasileira, além de submeter materiais didáticos do MEC a auditoria técnica com participação da Embrapa.", "paginas": [42, 43]}
+    ],
+    "Combate à Pobreza e Desenvolvimento Social": [
+      {"proposta": "Executar a desfavelização integral do Brasil em dez anos, transformando as 12.348 favelas em bairros formais com títulos de propriedade, regras urbanísticas e presença do Estado, por meio de um Marco Nacional da Desfavelização que amplia e acelera a REURB (Lei 13.465/2017).", "paginas": [48, 49]},
+      {"proposta": "Criar o Título de Desfavelização, instrumento jurídico na forma de mortgage de 50 anos com juros subsidiados (parcelas de R$ 200 a R$ 500 mensais), e um Cadastro Fundiário Unificado Nacional com uso de drones e georreferenciamento.", "paginas": [49]},
+      {"proposta": "Instalar obrigatoriamente serviços públicos (posto policial, escola modelo, clínica de saúde e creches) e garantir título de propriedade individual e mistura social em cada bairro desfavelizado, reformando o Minha Casa Minha Vida para redirecionar recursos à aquisição de imóveis em áreas estruturadas.", "paginas": [49]},
+      {"proposta": "Substituir o modelo assistencialista do Bolsa Família por Frentes Cidadãs, integrando beneficiários como participantes ativos da comunidade e incentivando sua inserção no mercado de trabalho.", "paginas": [21, 22]}
+    ],
+    "Infraestrutura e Saneamento": [
+      {"proposta": "Lançar o programa Missão Rondon para elevar o investimento em infraestrutura dos atuais 2% para pelo menos 4% do PIB, condicionado à reforma administrativa e fiscal prévia, mobilizando capital privado via concessões, PPPs e o novo regime de autorização ferroviária.", "paginas": [23, 24]},
+      {"proposta": "Expandir a malha ferroviária para uma meta mínima de 40 mil km, com conclusão da Ferrovia de Integração Oeste-Leste (FIOL), início das obras da Ferrogrão e viabilização da Ferrovia Transoceânica.", "paginas": [24]},
+      {"proposta": "Ampliar a capacidade portuária no Norte e Nordeste (Alcântara, Ilhéus, Itaqui), modernizar a frota naval e priorizar a conectividade aeroportuária do Norte.", "paginas": [24]},
+      {"proposta": "Reformar as licitações com fortalecimento dos Tribunais de Contas, profissionalização dos quadros técnicos e possibilidade de consórcios entre pequenos municípios para PPPs, integrando EVTEA e EIA desde a fase de pré-viabilidade dos projetos.", "paginas": [24]}
+    ],
+    "Política Externa e Soberania": [
+      {"proposta": "Posicionar o Brasil como 'Árbitro do Sul Global' por meio de diplomacia ativa na África, Ásia e América Latina, e propor um Pacto Interamericano contra o crime organizado liderado pelo Brasil, ancorado na Convenção de Palermo e na OEA.", "paginas": [45]},
+      {"proposta": "Adotar o pragmatismo como princípio de política externa, rejeitando o alinhamento automático com os EUA e o ideologismo de esquerda, e institucionalizar uma Estratégia Internacional que persista além de mudanças de governo.", "paginas": [46]},
+      {"proposta": "Promover a desdolarização da América do Sul, criando uma cesta de moedas regional liderada pelo real, com linhas de swap entre bancos centrais, e adotar uma estratégia pragmática no BRICS+ que evite subordinação à China.", "paginas": [46]},
+      {"proposta": "Fortalecer a Base Industrial de Defesa (BID), proteger fronteiras com expansão da tecnologia SISFRON e buscar a nuclearização brasileira com domínio completo do ciclo de combustível nuclear, incluindo reprocessamento.", "paginas": [46]},
+      {"proposta": "Declarar as terras raras questão de segurança nacional por PEC e verticalizar sua cadeia produtiva mediante acordos bilaterais com EUA e União Europeia (off-take e transferência tecnológica), consórcio de financiamento liderado pelo BNDES e planta-piloto de refino em 2029-2030.", "paginas": [39, 40]}
+    ],
+    "Gestão Pública / Reforma do Estado / Instituições": [
+      {"proposta": "Promover a Grande Consolidação Municipal, programa federal de fusão de municípios fiscalmente inviáveis, com potencial de reduzir o número de municípios de 5.570 para cerca de 1.656, segundo critérios de viabilidade fiscal, geográfica, econômica e urbana.", "paginas": [14, 15]},
+      {"proposta": "Aplicar rigorosamente a PEC 188/2019, criar um Marco Legal da Consolidação Municipal e substituir a Lei Complementar 91/97 por nova lei que discipline o Fundo de Participação dos Municípios (FPM).", "paginas": [15]},
+      {"proposta": "Instituir a Lei de Responsabilidade Gerencial, criando o Comissariado Federal de Gestão Pública (autarquia vinculada ao Ministério da Fazenda) e um Marco Gerencial Nacional com metas setoriais, de integridade e de eficiência fiscal.", "paginas": [17, 18]},
+      {"proposta": "Vincular o repasse do Fundo Partidário e do Fundo Eleitoral à qualidade gerencial dos mandatários, com inelegibilidade superveniente e cassação por improbidade gerencial para gestores que falharem reiteradamente nas metas.", "paginas": [18]},
+      {"proposta": "Criar uma Cláusula Antimáfia (inspirada na legislação italiana) que permita ao STJ dissolver administrações municipais capturadas pelo crime organizado ou milícias, com gestão por comissão federal extraordinária por até 24 meses.", "paginas": [18]}
+    ],
+    "Cultura, Esporte e Turismo": [
+      {"proposta": "Reformar a Lei Rouanet (Lei nº 8.313/1991), implementando critérios objetivos e publicizados de avaliação, publicação dos pareceres técnicos, teto progressivo de captação para artistas de alto faturamento e reserva de percentual mínimo do orçamento para novos talentos.", "paginas": [28]},
+      {"proposta": "Modernizar a legislação de tombamento e reformar o IPHAN e o IBRAM (sistema de museus), com revisão da política de tombamentos considerada excessiva e parcerias com organizações sociais.", "paginas": [28]},
+      {"proposta": "Reformular o papel do mercado no cinema nacional, alterando editais para conferir maior peso à viabilidade comercial dos filmes.", "paginas": [28]},
+      {"proposta": "Reunificar o Ministério da Cultura com o Ministério da Educação para maior integração entre as duas áreas.", "paginas": [29]},
+      {"proposta": "Criar um Código Unificado de Imprensa para disciplinar o setor e eliminar lacunas legais, mantendo oposição firme a propostas de regulação da mídia e da internet que reduzam a liberdade de expressão.", "paginas": [28, 29]},
+      {"proposta": "Elaborar um plano de isenções fiscais vinculadas a atividades esportivas.", "paginas": [26]}
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "candidato": "Ronaldo Caiado",
+  "partido": "PSD",
+  "arquivo_pdf": "ronaldo-caiado-psd.pdf",
+  "eixos": {
+    "Economia e Responsabilidade Fiscal": [
+      {"proposta": "Publicar, nos primeiros meses, um \"Orçamento da Verdade\" com diagnóstico completo de despesas obrigatórias, passivos, subsídios, benefícios tributários, restos a pagar, fundos e riscos fiscais.", "paginas": [12]},
+      {"proposta": "Adotar estratégia fiscal plurianual para estabilizar a dívida em relação ao PIB, recuperar superávits primários e reduzir a despesa de juros, com metas anuais e cláusulas de correção.", "paginas": [12]},
+      {"proposta": "Fazer as despesas obrigatórias crescerem abaixo do PIB nominal e conter a criação de novas despesas correntes, com compensação permanente e estimativa de impacto.", "paginas": [12, 13]},
+      {"proposta": "Rever subsídios, subvenções e benefícios tributários exigindo prazo, objetivo, contrapartida e avaliação, reduzindo ou encerrando benefícios sem resultado.", "paginas": [12]},
+      {"proposta": "Aplicar de forma efetiva o teto constitucional em todos os Poderes, combatendo supersalários e exceções, com responsabilização por pagamentos incompatíveis com a Constituição.", "paginas": [12]},
+      {"proposta": "Instituir a Estratégia Brasil 2040, com metas de produtividade e investimento, buscando elevar o investimento total de cerca de 17% para aproximadamente 25% do PIB, e reduzir o custo do capital produtivo.", "paginas": [14]}
+    ],
+    "Segurança Pública": [
+      {"proposta": "Criar o Ministério da Segurança Pública e instituir o Sistema Integrado de Proteção à Soberania Nacional, sob liderança da Presidência, com participação dos governadores e valorização dos profissionais de segurança.", "paginas": [16, 17]},
+      {"proposta": "Propor legislação que enquadre como terrorismo doméstico organizações criminosas e milícias com estrutura de comando e domínio territorial, com penas mínimas elevadas e regime disciplinar rigoroso (REDAD) para lideranças.", "paginas": [17]},
+      {"proposta": "Implantar o Sistema Nacional de Inteligência Criminal, integrando bancos de dados da União, estados, Ministério Público e Judiciário, com uso de inteligência artificial para identificar redes criminosas.", "paginas": [17]},
+      {"proposta": "Asfixiar financeiramente o crime organizado com novos tipos penais, inversão do ônus da prova patrimonial, alienação antecipada de bens e o Fundo Nacional de Combate ao Terrorismo Doméstico financiado por bens recuperados.", "paginas": [17, 18]},
+      {"proposta": "Retomar o controle do sistema penitenciário com uma Rede Nacional de Presídios de Segurança Máxima e separação de lideranças criminosas, e proteger fronteiras, portos e aeroportos com o Comando Nacional de Fronteiras e Corredores Logísticos.", "paginas": [18]},
+      {"proposta": "Proteger mulheres, crianças e adolescentes com monitoramento nacional de agressores, endurecimento penal para feminicídio e estupro de vulnerável, Batalhões Maria da Penha e o Pacto Brasil Unido pela Proteção da Infância.", "paginas": [18, 19]}
+    ],
+    "Saúde": [
+      {"proposta": "Criar um Sistema Nacional de Acesso e Regulação Inteligente para substituir a fila cronológica por prioridade clínica, com meta de reduzir em ao menos 50% o tempo mediano das filas prioritárias até 2030.", "paginas": [77]},
+      {"proposta": "Fortalecer a Atenção Primária, vinculando cada cidadão a uma equipe de referência, com busca ativa e Programa Nacional de Crônicos, e meta de reduzir em 20% as internações por condições sensíveis à APS.", "paginas": [78]},
+      {"proposta": "Organizar redes nacionais tempo-dependentes para infarto e AVC e a política \"Brasil contra o câncer\", com via rápida do câncer e cumprimento dos prazos legais de diagnóstico e tratamento.", "paginas": [79, 80]},
+      {"proposta": "Recuperar a cobertura vacinal do Programa Nacional de Imunizações com busca ativa nominal, buscando atingir e sustentar ao menos 95% de cobertura nas vacinas prioritárias até 2030.", "paginas": [88]},
+      {"proposta": "Construir um SUS digital e interoperável, com histórico clínico digital para 100% dos cidadãos e hospitais estratégicos integrados a sistemas de gestão e avaliação de desempenho.", "paginas": [89]},
+      {"proposta": "Fortalecer a soberania sanitária com a Aliança Nacional de Ciência e Produção em Saúde, ampliando a produção nacional de vacinas, imunobiológicos, biossimilares, medicamentos de alto custo e terapias avançadas.", "paginas": [90]}
+    ],
+    "Educação": [
+      {"proposta": "Firmar o Pacto Nacional pela Alfabetização e Matemática na Idade Certa, apoiando estados e municípios para que as crianças leiam, escrevam e dominem fundamentos matemáticos até o fim do 2º ano.", "paginas": [32]},
+      {"proposta": "Universalizar a pré-escola e ampliar creches, priorizando famílias vulneráveis e territórios com baixa oferta, com avaliação de qualidade e integração com saúde e assistência.", "paginas": [32]},
+      {"proposta": "Realizar a recomposição nacional das aprendizagens, diagnosticando defasagens por estudante e oferecendo material, tempo adicional, tutoria e acompanhamento público por escola.", "paginas": [32]},
+      {"proposta": "Expandir a educação profissional e tecnológica em escala, articulada ao ensino médio, em parceria com institutos federais, redes estaduais, Sistema S e empresas.", "paginas": [33]},
+      {"proposta": "Valorizar o professor elevando o padrão das licenciaturas, exigindo prática supervisionada, restringindo cursos de baixa qualidade e oferecendo bolsas e formação continuada.", "paginas": [33]},
+      {"proposta": "Elevar a qualidade do ensino superior, com maior exigência de avaliação, reestruturação de cursos insuficientes e aproximação entre universidades, empresas e inovação.", "paginas": [33, 34]}
+    ],
+    "Trabalho e Emprego": [
+      {"proposta": "Modernizar o mercado de trabalho com formação contínua, intermediação digital, apoio à transição profissional, inclusão de jovens e mulheres e redução dos custos que empurram à informalidade.", "paginas": [15]},
+      {"proposta": "Formar trabalhadores para a economia do futuro, expandindo o ensino técnico e profissional, atualizando currículos para IA e automação e implantando programa nacional de requalificação profissional.", "paginas": [44, 45]},
+      {"proposta": "Fortalecer o Sistema S, os institutos federais e as universidades tecnológicas e incentivar a formação contínua dentro das empresas.", "paginas": [45]},
+      {"proposta": "Fortalecer micro e pequenas empresas simplificando obrigações, ampliando crédito e garantias, qualificação gerencial e acesso a mercados para reduzir o custo de formalização.", "paginas": [15]},
+      {"proposta": "Expandir a aprendizagem profissional no setor público e privado e o primeiro trabalho, priorizando jovens fora da escola e do trabalho e egressos do sistema socioeducativo.", "paginas": [62]}
+    ],
+    "Meio Ambiente e Energia": [
+      {"proposta": "Rever de forma gradual e transparente os subsídios e encargos embutidos na conta de luz, transferindo progressivamente ao orçamento público as políticas sociais não vinculadas ao sistema elétrico.", "paginas": [35]},
+      {"proposta": "Realizar leilão de armazenamento de energia e modernizar o parque hidrelétrico, reduzindo o desperdício de energia limpa com regras claras de expansão de geração e transmissão.", "paginas": [36]},
+      {"proposta": "Ampliar a oferta competitiva de gás natural para a indústria, com leilões, acesso de terceiros às infraestruturas e meta de convergência do preço ao consumidor industrial para cerca de US$ 8 por MMBtu.", "paginas": [37]},
+      {"proposta": "Criar o Grande Pacto Nacional pelo Desenvolvimento Sustentável e implementar licenciamento ambiental por risco, prazo e objetividade, distinguindo risco, porte e comportamento.", "paginas": [50]},
+      {"proposta": "Operacionalizar o mercado de carbono de alta integridade e o Pagamento por Serviços Ambientais em escala, remunerando conservação de água, solo, biodiversidade e carbono.", "paginas": [51]},
+      {"proposta": "Fortalecer o combate integrado ao desmatamento, grilagem e crimes ambientais e implantar sistema nacional de prevenção e combate a incêndios, com prioridade a Pantanal, Cerrado e Amazônia.", "paginas": [51]}
+    ],
+    "Agronegócio e Segurança Alimentar": [
+      {"proposta": "Adotar a biocompetitividade como estratégia nacional, integrando alimentos, bioenergia, biotecnologia, ciência e sustentabilidade, com estratégias decenais para proteínas, grãos, biocombustíveis e bioinsumos.", "paginas": [22]},
+      {"proposta": "Produzir mais nas áreas já abertas, aprofundando a recuperação de pastagens degradadas e a integração lavoura-pecuária-floresta, com uso de satélites e extensão rural digital.", "paginas": [22]},
+      {"proposta": "Construir nova arquitetura de financiamento do agro com fundo garantidor para o crédito privado e Plano Safra plurianual, e fazer do seguro rural uma política permanente com seguros paramétricos.", "paginas": [22, 23]},
+      {"proposta": "Executar o Plano Nacional de Fertilizantes para reduzir a dependência externa, ampliando a produção interna de potássio e nitrogenados e estruturando programa nacional de bioinsumos.", "paginas": [23]},
+      {"proposta": "Fortalecer a Embrapa com planejamento plurianual e estabilidade de recursos, implantando um Programa Nacional de Biotecnologia Tropical e centros de excelência em IA aplicada ao agro.", "paginas": [23]},
+      {"proposta": "Priorizar obras logísticas estruturantes de escoamento (Ferrogrão, Ferrovia Norte-Sul, Fiol, Malha Norte, BR-163 e hidrovias) e diversificar mercados de exportação com defesa sanitária reforçada.", "paginas": [23, 24]}
+    ],
+    "Combate à Pobreza e Desenvolvimento Social": [
+      {"proposta": "Criar o Sistema Nacional de Gestão Social Integrada, unindo Cadastro Único, SUAS, saúde, educação, trabalho e habitação, com diagnóstico e plano de acompanhamento por família.", "paginas": [61]},
+      {"proposta": "Preservar os programas de transferência de renda e criar regra de transição para quem ingressa no trabalho formal, reduzindo o benefício gradualmente e conectando a qualificação e creche.", "paginas": [61]},
+      {"proposta": "Estabelecer a prioridade absoluta para crianças e adolescentes, com orçamento federal da infância identificado, metas e instância de coordenação na Presidência, e cuidado nos primeiros mil dias.", "paginas": [62]},
+      {"proposta": "Enfrentar a fome e promover alimentação saudável, fortalecendo merenda, compras da agricultura familiar, bancos de alimentos, restaurantes populares e cozinhas comunitárias.", "paginas": [62]},
+      {"proposta": "Integrar produção habitacional, urbanização, regularização fundiária e locação social, priorizando famílias com crianças, mulheres vítimas de violência, pessoas com deficiência e idosos.", "paginas": [62]},
+      {"proposta": "Criar política nacional para a população em situação de rua e política de envelhecimento ativo com cuidado de longa duração, além de inclusão das pessoas com deficiência.", "paginas": [62]}
+    ],
+    "Infraestrutura e Saneamento": [
+      {"proposta": "Instituir um Plano Nacional de Infraestrutura como política de Estado, com horizonte de trinta anos, carteira única de projetos priorizados e instância técnica independente de avaliação.", "paginas": [46]},
+      {"proposta": "Tratar a manutenção como prioridade, não contratando ativo novo sem plano de manutenção financiado, e instituir programa nacional de triagem para concluir, conceder ou encerrar obras paralisadas.", "paginas": [46, 47]},
+      {"proposta": "Cumprir e acelerar as metas do marco legal do saneamento (universalização até 2033), avançando na prestação regionalizada e incluindo resíduos sólidos e drenagem urbana.", "paginas": [48]},
+      {"proposta": "Rebalancear a matriz de transportes com prioridade a ferrovias, hidrovias, cabotagem e terminais intermodais, e ampliar concessões e parcerias público-privadas com calendário permanente de leilões.", "paginas": [47, 48]},
+      {"proposta": "Regulamentar e implementar a Lei nº 15.432/2026 do transporte público coletivo e enviar ao Congresso, no primeiro ano, uma Política Nacional de Financiamento da mobilidade urbana sem novo imposto geral.", "paginas": [56]},
+      {"proposta": "Criar programa nacional de renovação de frotas por ônibus acessíveis e de baixa emissão e expandir corredores, faixas exclusivas e infraestrutura de média e alta capacidade (BRT, VLT, metrôs).", "paginas": [57]}
+    ],
+    "Política Externa e Soberania": [
+      {"proposta": "Tratar a política externa como política de Estado, com estratégia nacional de inserção internacional aprovada em conselho de governo e debatida com o Congresso e a sociedade.", "paginas": [72]},
+      {"proposta": "Fortalecer simultaneamente as relações com Estados Unidos, União Europeia, América Latina, África, Ásia e Oriente Médio, sem alinhamentos automáticos e sem hierarquias ideológicas.", "paginas": [73]},
+      {"proposta": "Consolidar o acordo Mercosul-União Europeia, ampliar a rede de acordos comerciais e promover diálogo sobre o futuro do Mercosul, buscando elevar a complexidade tecnológica das exportações.", "paginas": [73]},
+      {"proposta": "Atualizar a Estratégia Nacional de Defesa, fortalecer a presença nas fronteiras e na Amazônia e consolidar a Amazônia Azul, com Forças Armadas profissionais submetidas à Constituição.", "paginas": [30, 31]},
+      {"proposta": "Ampliar a cooperação internacional contra o crime organizado transnacional e retomar, com pragmatismo, a aproximação com a OCDE, participando ativamente da ONU, OMC, G20 e BRICS.", "paginas": [74]},
+      {"proposta": "Atribuir a embaixadas e representações metas de exportação, investimento e abertura de mercados, integrando Itamaraty, ApexBrasil e Camex, com apoio a pequenas e médias empresas.", "paginas": [74]}
+    ],
+    "Gestão Pública / Reforma do Estado / Instituições": [
+      {"proposta": "Encaminhar ao Congresso proposta de emenda constitucional para extinguir a reeleição consecutiva para cargos do Executivo, com aplicação inclusive ao mandato presidencial iniciado em 2027.", "paginas": [8]},
+      {"proposta": "Recuperar a coordenação do Poder Executivo criando um Centro de Governo, com carta de missão, metas públicas e avaliação periódica para cada ministro, e profissionalizar a alta administração.", "paginas": [9]},
+      {"proposta": "Liderar a adoção do sistema distrital misto e fortalecer a democracia interna dos partidos, reduzindo a fragmentação com cláusulas de desempenho e representação legítima.", "paginas": [10]},
+      {"proposta": "Tornar o financiamento político e as emendas parlamentares integralmente rastreáveis, com painel único de autoria, objeto, beneficiário final e execução física.", "paginas": [10, 11]},
+      {"proposta": "Instituir o Sistema Nacional Anticorrupção e de Integridade Pública, com plataforma de análise de riscos em gastos públicos, Lei do Enriquecimento Ilícito e recuperação acelerada de ativos.", "paginas": [20]},
+      {"proposta": "Organizar o Plano Plurianual 2028-2031 por missões e manter o Painel Brasil 2030 com indicadores públicos, avaliação independente de programas e transparência de beneficiário final.", "paginas": [100]}
+    ],
+    "Cultura, Esporte e Turismo": [
+      {"proposta": "Implementar o Plano Nacional de Cultura 2027-2030 com metas, consolidar o Sistema Nacional de Cultura com financiamento estável e levar cultura aos territórios sem oferta, garantindo liberdade artística.", "paginas": [28, 29]},
+      {"proposta": "Aprovar o Plano Nacional do Esporte 2035, com metas de acesso, formação e alto rendimento, implementando o Sinesp e o SNIIE e garantindo educação física e iniciação multiesportiva em todas as etapas.", "paginas": [39]},
+      {"proposta": "Recuperar equipamentos esportivos comunitários, integrar o esporte à prevenção em saúde (Brasil Ativo) e assegurar proteção integral de crianças e adolescentes, paradesporto e inclusão de mulheres.", "paginas": [39, 40]},
+      {"proposta": "Construir a Estratégia Nacional de Turismo 2035, com metas de chegadas internacionais, receita, permanência, emprego formal e dispersão regional, integrando turismo a infraestrutura e política externa.", "paginas": [97]},
+      {"proposta": "Apoiar a gestão profissional de destinos, melhorar conectividade, vistos e infraestrutura turística, e modernizar o Fungetur e instrumentos de crédito para atrair investimento no setor.", "paginas": [97, 98]},
+      {"proposta": "Dar continuidade técnica à Embratur com promoção internacional orientada por dados e estruturar turismo de natureza, cultura, fé, gastronomia e rural com sustentabilidade e benefício às comunidades.", "paginas": [98, 99]}
+    ]
+  }
+}

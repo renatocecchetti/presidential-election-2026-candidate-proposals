@@ -1,0 +1,101 @@
+{
+  "candidato": "Flávio Bolsonaro",
+  "partido": "PL",
+  "arquivo_pdf": "flavio-bolsonaro-pl.pdf",
+  "eixos": {
+    "Economia e Responsabilidade Fiscal": [
+      {"proposta": "Revisar e redimensionar a reforma tributária em curso e a majoração de impostos do governo atual, reduzindo o IVA (projetado em torno de 30%) e assegurando a não cumulatividade para não cobrar imposto sobre imposto.", "paginas": [30, 71]},
+      {"proposta": "Apresentar uma reformulação das regras fiscais, com foco na estabilização e redução da dívida pública, entrega de superávits primários e limitação do crédito subsidiado com recursos do Tesouro, e uma regra de controle de gastos discricionários dos três Poderes.", "paginas": [71]},
+      {"proposta": "Reduzir a dívida pública para que os juros básicos convirjam à média internacional e a inflação volte ao centro da meta.", "paginas": [33, 71]},
+      {"proposta": "Ampliar a orientação financeira pela rede da CAIXA e proibir o uso de recursos de programas sociais em apostas online, com campanhas de conscientização sobre endividamento.", "paginas": [33]},
+      {"proposta": "Implantar uma agenda permanente de transparência e avaliação de políticas públicas, medindo o impacto de cada gasto e reformando o processo orçamentário.", "paginas": [71]},
+      {"proposta": "Retomar o Programa Nacional de Desestatização com critério, fortalecer a Lei das Estatais e blindar os fundos de pensão das estatais da indicação política.", "paginas": [70]}
+    ],
+    "Segurança Pública": [
+      {"proposta": "Declarar facções como PCC, CV e milícias organizações narcoterroristas, combatê-las com inteligência e integração, bloquear ativos e desarticular a lavagem de dinheiro que as sustenta.", "paginas": [13]},
+      {"proposta": "Apoiar a redução da maioridade penal de 18 para 16 anos e punir como adultos maiores de 14 anos que cometam crimes graves como estupro, tráfico e assassinato.", "paginas": [13]},
+      {"proposta": "Criar o Sistema Nacional de Fronteira, com tropa de elite das Forças Armadas para interceptar armas e drogas por terra, portos e espaço aéreo.", "paginas": [13, 14]},
+      {"proposta": "Construir 5 novos presídios de segurança máxima (modelo El Salvador) formando o Complexo Federal 'TREVA' e criar cerca de 500 mil novas vagas prisionais em 4 anos, em parceria com estados.", "paginas": [14]},
+      {"proposta": "Dobrar os investimentos federais em segurança pública ao longo do mandato e implantar o sistema de reconhecimento facial 'Muralha Brasileira' com mais de 1 milhão de novas câmeras.", "paginas": [15]},
+      {"proposta": "Aprovar a castração química de estupradores e abusadores de crianças condenados e acabar com a progressão de regime para crimes hediondos.", "paginas": [14, 15]}
+    ],
+    "Saúde": [
+      {"proposta": "Implantar o prontuário eletrônico único vinculado ao CPF e integrado ao Gov.br, interoperável entre redes pública e privada, e usar inteligência artificial para agilizar o agendamento de consultas e exames.", "paginas": [25, 26]},
+      {"proposta": "Corrigir efetivamente a tabela SUS para cobrir o custo real do atendimento em hospitais, santas casas e clínicas.", "paginas": [37]},
+      {"proposta": "Ampliar a Estratégia Saúde da Família, criar o Programa de Atendimento aos Idosos e ampliar o acesso a exames preventivos e à imunização com incentivo à produção nacional de vacinas.", "paginas": [37]},
+      {"proposta": "Contratar serviços e exames na rede privada em horários ociosos e modernizar os hospitais universitários federais (EBSERH).", "paginas": [37, 38]},
+      {"proposta": "Implantar telessaúde, teleatendimento por aplicativo e entrega de remédio em domicílio para idosos, pessoas com deficiência e doentes crônicos.", "paginas": [38]},
+      {"proposta": "Fortalecer e ampliar a atenção à saúde mental, com diagnóstico precoce de TDAH, atenção à depressão e ansiedade e cuidado com idosos com Alzheimer.", "paginas": [39]}
+    ],
+    "Educação": [
+      {"proposta": "Priorizar o método fônico na alfabetização e criar o Programa Acolher, em que alunos com bom desempenho são remunerados para dar reforço aos colegas.", "paginas": [35]},
+      {"proposta": "Adotar gestão escolar por indicadores de resultado e proficiência, com financiamento por orçamento por resultados vinculado a metas de aprendizagem, e qualificação contínua de professores baseada em evidências.", "paginas": [35]},
+      {"proposta": "Ampliar as Escolas Cívico-Militares, manter educação livre de doutrinação político-partidária, escola em tempo integral, programa Escola nas Férias e voucher educacional onde faltar vaga na rede pública.", "paginas": [35, 36]},
+      {"proposta": "Ampliar a educação técnica no ensino médio em parceria com o setor produtivo (que poderá custear bolsas) e criar a Política Nacional de Formação de Talentos.", "paginas": [36]},
+      {"proposta": "Transferir a governança do ensino superior ao Ministério da Ciência, Tecnologia e Inovações, com CAPES e CNPq priorizando impacto produtivo, inovação e transferência de tecnologia.", "paginas": [36]},
+      {"proposta": "Adotar o Empréstimo Contingente à Renda no financiamento estudantil, em que o estudante só paga quando estiver empregado, com parcela proporcional à renda.", "paginas": [37]}
+    ],
+    "Trabalho e Emprego": [
+      {"proposta": "Reduzir gradualmente o custo do trabalho formal, sem retirar direitos, para ampliar a contratação com carteira assinada.", "paginas": [43]},
+      {"proposta": "Criar um contrato de trabalho para jovens de 18 a 24 anos em busca do primeiro emprego, com menor custo na folha, e um contrato mais atrativo para contratação de desempregados com 50 anos ou mais.", "paginas": [43, 44]},
+      {"proposta": "Defender a prevalência do negociado sobre o legislado, com jornada flexível acordada diretamente entre trabalhador e empresa dentro da lei.", "paginas": [44]},
+      {"proposta": "Modernizar a intermediação de mão de obra com um banco nacional de vagas conectado ao RH das empresas.", "paginas": [44]},
+      {"proposta": "Proteger os trabalhadores de aplicativos e posicionar-se contra a chamada 'República Sindical' e a unicidade sindical.", "paginas": [44, 45]},
+      {"proposta": "Dar prioridade aos beneficiários de programas sociais em programas de primeiro emprego, qualificação e intermediação, com retorno imediato e sem fila ao benefício após o seguro-desemprego.", "paginas": [43]}
+    ],
+    "Meio Ambiente e Energia": [
+      {"proposta": "Criar o Programa Nacional de Segurança Energética com foco em refino, gás e transporte de combustíveis, permitir a exploração de gás não convencional (fracking) e expandir a rede de transmissão.", "paginas": [52]},
+      {"proposta": "Simplificar a conta de luz, racionalizar encargos e subsídios cruzados, reduzir gradualmente a CDE mantida a tarifa social e reduzir impostos sobre energia e combustíveis.", "paginas": [31, 53]},
+      {"proposta": "Transformar o Brasil em potência de biocombustíveis (etanol, biodiesel, HVO, SAF e biogás), aplicar a Lei do Combustível do Futuro e ampliar o Programa Renovabio para venda de créditos de carbono.", "paginas": [53]},
+      {"proposta": "Consolidar o mercado regulado de carbono com segurança jurídica e impulsionar a bioeconomia e o pagamento por serviços ambientais para quem conserva vegetação nativa.", "paginas": [57]},
+      {"proposta": "Zerar o desmatamento ilegal até 2029 e combater queimadas e crimes ambientais com inteligência artificial, imagens de satélite e ação coordenada das agências, focando em grilagem e ocupação ilegal.", "paginas": [58]},
+      {"proposta": "Fortalecer a fiscalização ambiental na Amazônia, eliminar superposições entre Ibama, Funai e ICMBio e exigir transparência de financiadores e projetos de ONGs com recursos internacionais.", "paginas": [58, 59]}
+    ],
+    "Agronegócio e Segurança Alimentar": [
+      {"proposta": "Ampliar o Seguro Rural e introduzir securitização e reorganização das dívidas do setor para dar previsibilidade ao produtor.", "paginas": [31, 53, 54]},
+      {"proposta": "Ampliar a capacidade de armazenamento das safras para garantir melhores preços ao produtor e oferta contínua à população.", "paginas": [31, 32, 54]},
+      {"proposta": "Apoiar a produção nacional de fertilizantes a partir de minerais como potássio e fosfato para reduzir a dependência externa e proteger a segurança alimentar.", "paginas": [32, 53, 54]},
+      {"proposta": "Promover ampla regularização e titulação do pequeno proprietário rural, simplificar as outorgas de irrigação (hoje em média de 24 meses) e ampliar a área irrigada com polos no Matopiba e no semiárido.", "paginas": [27, 54, 55]},
+      {"proposta": "Instituir a rastreabilidade completa das cadeias produtivas, integrando cadastros fundiários e ambientais e monitoramento por satélite em um só sistema.", "paginas": [28]},
+      {"proposta": "Buscar soluções diplomáticas contra sanções de EUA, China e Europa aos produtos nacionais e articular incentivos à biomassa e ao combustível sustentável de aviação a partir de 2027.", "paginas": [54, 55]}
+    ],
+    "Combate à Pobreza e Desenvolvimento Social": [
+      {"proposta": "Manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes.", "paginas": [42]},
+      {"proposta": "Criar uma trilha de qualificação e intermediação para beneficiários de programas sociais, com foco na superação da armadilha da pobreza e na autonomia.", "paginas": [42, 43]},
+      {"proposta": "Ampliar a oferta de creches em período integral e oferecer voucher-creche à rede privada credenciada onde faltar vaga pública.", "paginas": [21]},
+      {"proposta": "Estruturar uma Rede Nacional de Cuidado, com centros-dia e atendimento domiciliar para idosos e pessoas com deficiência.", "paginas": [21, 38]},
+      {"proposta": "Oferecer o programa Casa Segura para Envelhecer, com subsídio à acessibilidade domiciliar, e ampliar instituições de longa permanência para idosos.", "paginas": [39]},
+      {"proposta": "Adotar políticas transversais para pessoas com deficiência e doenças raras, incluindo Centros de Referência em Transtorno do Espectro Autista.", "paginas": [39]}
+    ],
+    "Infraestrutura e Saneamento": [
+      {"proposta": "Investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias, com novo modelo de financiamento baseado em securitização de ativos da União, PPPs e concessões.", "paginas": [50, 51]},
+      {"proposta": "Criar os Corredores Logísticos Inteligentes para reduzir o custo da logística (hoje em 15,5% do PIB), destravar a Ferrogrão, implantar o Trem do Nordeste e concluir a Transnordestina.", "paginas": [31, 51, 60]},
+      {"proposta": "Garantir a plena aplicação do Marco Legal do Saneamento e acelerar concessões e parcerias para universalizar água tratada e esgoto, com atenção ao saneamento rural.", "paginas": [47]},
+      {"proposta": "Retomar o Casa Verde e Amarela com meta de 2,5 milhões de residências e promover urbanização de áreas degradadas e regularização fundiária urbana.", "paginas": [47]},
+      {"proposta": "Executar obras de segurança hídrica no Nordeste (Ramal do Apodi, Adutora do Seridó, Canal do Xingó, entre outras) e ampliar infraestrutura de prevenção a eventos climáticos extremos.", "paginas": [52]},
+      {"proposta": "Priorizar o transporte coletivo como base da mobilidade urbana, com financiamento público a metrô, transporte sobre trilhos e ônibus elétricos e a biocombustíveis.", "paginas": [51]}
+    ],
+    "Política Externa e Soberania": [
+      {"proposta": "Conduzir a diplomacia por profissionalismo e pragmatismo em vez de ideologia, com o Itamaraty guiado por competência técnica e negociação com todos os parceiros de interesse do Brasil.", "paginas": [61, 62]},
+      {"proposta": "Retomar o cronograma de adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio, para convergir normas aos padrões internacionais.", "paginas": [63]},
+      {"proposta": "Executar um plano nacional de integração às cadeias globais de valor e apoiar a internacionalização de pequenas e médias empresas via BNDES e Apex-Brasil.", "paginas": [63]},
+      {"proposta": "Posicionar o Brasil entre os principais destinos mundiais de investimento em transição energética até 2030, com biocombustíveis, energia solar, eólica e hidrogênio verde.", "paginas": [63]},
+      {"proposta": "Reverter o desgaste nas relações com parceiros tradicionais como Argentina, Estados Unidos e Israel e alinhar os investimentos nas Forças Armadas com foco em inovação como drones e IA.", "paginas": [62, 63]}
+    ],
+    "Gestão Pública / Reforma do Estado / Instituições": [
+      {"proposta": "Digitalizar 100% dos serviços públicos federais passíveis de digitalização (digital by design), com identidade digital única e eliminação da reapresentação de documentos que o Estado já possui.", "paginas": [24, 25]},
+      {"proposta": "Realizar reforma administrativa e ampla revisão normativa infralegal, com corte de no mínimo 10 ministérios, redução de cargos comissionados e combate a penduricalhos e supersalários.", "paginas": [69]},
+      {"proposta": "Profissionalizar as estatais por recrutamento com regras de mercado, fortalecer a Lei das Estatais e organizar o Estado para prevenir a corrupção com transparência e mérito.", "paginas": [70]},
+      {"proposta": "Devolver o STF ao papel de Corte Constitucional, com fim das competências criminais originárias, limitação das decisões monocráticas e quarentena de 1 ano para ministros de Estado indicados ao STF.", "paginas": [65, 66]},
+      {"proposta": "Promover reforma política com fim da reeleição para Presidente da República e revisar o pacto federativo com mais autonomia a estados e municípios ('Mais Brasil, menos Brasília').", "paginas": [66, 68, 69]},
+      {"proposta": "Fazer um 'Tesouraço na Censura', extinguindo estruturas que funcionem como 'Ministério da Verdade' e revogando atos voltados a silenciar críticos, e reeditar pacote antifraude na Previdência.", "paginas": [66, 72]}
+    ],
+    "Cultura, Esporte e Turismo": [
+      {"proposta": "Preservar o patrimônio histórico e aperfeiçoar as leis de incentivo à cultura, corrigindo distorções e favorecendo polos regionais e artistas de pouca projeção.", "paginas": [41]},
+      {"proposta": "Criar o Programa Escola de Campeões, com parcerias público-privadas para levar o esporte competitivo às escolas, combatendo evasão e repetência escolar.", "paginas": [40]},
+      {"proposta": "Fomentar o paradesporto com detecção de talentos paralímpicos desde a base e aperfeiçoar as bolsas esportivas com patrocínio da iniciativa privada no alto rendimento.", "paginas": [40]},
+      {"proposta": "Assegurar que a categoria esportiva feminina, da base ao alto rendimento, seja disputada por atletas do sexo feminino.", "paginas": [40, 41]},
+      {"proposta": "Promover o destino Brasil e valorizar as vocações turísticas regionais, integrando o turismo à infraestrutura de transporte como o Trem do Nordeste.", "paginas": [59, 60]}
+    ]
+  }
+}

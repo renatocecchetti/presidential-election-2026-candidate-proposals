@@ -1,0 +1,100 @@
+{
+  "candidato": "Romeu Zema",
+  "partido": "Novo",
+  "arquivo_pdf": "romeu-zema-novo.pdf",
+  "eixos": {
+    "Economia e Responsabilidade Fiscal": [
+      {"proposta": "Realizar uma reforma da Previdência que inclua estados, municípios e as previdências rural e militar, com reajuste automático da idade mínima de aposentadoria conforme a expectativa de vida.", "paginas": [14]},
+      {"proposta": "Fazer uma ampla Reforma Administrativa para enxugar o Governo Federal, reduzindo ministérios, cortando cargos comissionados e revisando autarquias e fundações.", "paginas": [15]},
+      {"proposta": "Privatizar todas as empresas estatais e ampliar as parcerias público-privadas em todos os serviços públicos, inclusive saúde e educação.", "paginas": [15]},
+      {"proposta": "Fixar metas progressivas de redução da carga tributária que imponham cortes de gastos correspondentes, invertendo a lógica em que o gasto define o imposto.", "paginas": [16]},
+      {"proposta": "Reduzir gradualmente o imposto de renda das empresas e reformar o IRPJ, com a Receita apurando o imposto automaticamente a partir da nota fiscal eletrônica.", "paginas": [19]},
+      {"proposta": "Criar condições para a queda dos juros por meio de choque fiscal e reduzir o IOF e o crédito direcionado (como linhas subsidiadas do BNDES) para ampliar a concorrência bancária.", "paginas": [18]}
+    ],
+    "Segurança Pública": [
+      {"proposta": "Classificar as facções criminosas como organizações terroristas, no âmbito nacional e internacional, permitindo o emprego das Forças Armadas e cooperação internacional no combate.", "paginas": [5]},
+      {"proposta": "Empregar as Forças Armadas de forma integrada às polícias estaduais e à Polícia Federal para retomar territórios dominados pelo crime organizado.", "paginas": [5]},
+      {"proposta": "Construir presídios de segurança máxima em regiões remotas, com regime diferenciado para isolar membros das facções.", "paginas": [6]},
+      {"proposta": "Converter em prisão preventiva a prisão em flagrante de criminosos presos pela terceira vez, vedando o relaxamento na audiência de custódia.", "paginas": [6]},
+      {"proposta": "Reduzir a maioridade penal para 16 anos e reformar o Código Penal para endurecer as penas de crimes violentos, hediondos e patrimoniais.", "paginas": [6]},
+      {"proposta": "Ampliar a rede de delegacias da mulher com atuação 24 horas e expandir as Patrulhas Maria da Penha e as Salas Lilás para reduzir a reincidência e proteger vítimas.", "paginas": [7]}
+    ],
+    "Saúde": [
+      {"proposta": "Expandir a telemedicina e criar um registro nacional de saúde unificado sob controle do cidadão, com prontuário eletrônico e interoperabilidade entre sistemas público e privado.", "paginas": [57, 58]},
+      {"proposta": "Fortalecer a atenção primária por meio da Estratégia de Saúde da Família e dos programas de vacinação, com incentivos por resultados focados em doenças crônicas e pré-natal.", "paginas": [58]},
+      {"proposta": "Reduzir as filas do SUS por meio de parcerias com clínicas e hospitais privados para consultas, exames e cirurgias, aproveitando a capacidade ociosa da rede privada.", "paginas": [60]},
+      {"proposta": "Expandir a rede de hospitais, UPAs e atendimento especializado por meio de concessões, PPPs e parcerias com Organizações Sociais.", "paginas": [60]},
+      {"proposta": "Estabelecer critérios técnicos vinculantes para decisões judiciais em saúde e revisar a regulação da ANS para permitir modelos diferenciados de planos de saúde.", "paginas": [61]}
+    ],
+    "Educação": [
+      {"proposta": "Ampliar a oferta de vagas em creches e pré-escolas com foco em qualidade e acesso, priorizando parcerias com o setor privado e entidades comunitárias.", "paginas": [50]},
+      {"proposta": "Fortalecer o Sistema de Avaliação da Educação Básica (Saeb) e priorizar a alfabetização na idade certa por meio do Pacto Nacional pela Recomposição das Aprendizagens.", "paginas": [51]},
+      {"proposta": "Adotar diretrizes de carreira docente baseadas em desempenho e desenvolvimento, e não no tempo de serviço, além de aprimorar a formação de professores na graduação.", "paginas": [52]},
+      {"proposta": "Expandir a educação profissional e tecnológica conectada ao mercado e vincular o programa Pé-de-Meia ao aprendizado do aluno, com exigência de frequência e nota mínima no Enem.", "paginas": [52, 53]},
+      {"proposta": "Regulamentar o homeschooling e ampliar parcerias com escolas comunitárias, filantrópicas, confessionais e cívico-militares, dando às famílias mais liberdade de escolha.", "paginas": [53]},
+      {"proposta": "Transferir a gestão do ensino superior do MEC para o Ministério de Ciência e Tecnologia e substituir a eleição interna de reitores por escolha técnica e transparente.", "paginas": [54, 55]}
+    ],
+    "Trabalho e Emprego": [
+      {"proposta": "Oferecer um regime de contratação alternativo à CLT, com prevalência do negociado sobre o legislado em regras como remuneração variável, jornada e periodicidade de pagamento.", "paginas": [23]},
+      {"proposta": "Zerar os encargos sobre o equivalente a um salário mínimo na contratação de quem está há mais de um ano na informalidade, para estimular a formalização.", "paginas": [24]},
+      {"proposta": "Reduzir burocracias, encargos e contribuições sobre a folha de pagamento, como o repasse ao INCRA e obrigações acessórias.", "paginas": [24]},
+      {"proposta": "Direcionar o ensino técnico e profissionalizante para vagas reais do mercado por meio de vouchers e parcerias com o Sistema S, condicionando repasses a metas de empregabilidade.", "paginas": [24]},
+      {"proposta": "Encerrar o monopólio sindical, assegurando o direito de não se filiar ou contribuir a sindicatos, e desregulamentar profissões que não envolvam risco à saúde ou segurança.", "paginas": [24, 25]}
+    ],
+    "Meio Ambiente e Energia": [
+      {"proposta": "Reestruturar a formação de preços da energia e reduzir encargos e subsídios setoriais embutidos na conta de luz, buscando a fonte mais barata sem privilegiar tecnologias específicas.", "paginas": [33]},
+      {"proposta": "Desverticalizar a Petrobras, separando produção, refino, transporte e logística em diferentes empresas para ampliar a concorrência, e manter calendário previsível de leilões de exploração.", "paginas": [33]},
+      {"proposta": "Reduzir o tempo de análise dos pedidos de pesquisa e lavra na Agência Nacional de Mineração e combater o garimpo ilegal como política de segurança pública.", "paginas": [35]},
+      {"proposta": "Garantir critérios técnicos e segurança jurídica no licenciamento ambiental e combater a grilagem e o desmatamento ilegal com monitoramento por satélite e integração de forças.", "paginas": [47, 48]},
+      {"proposta": "Estabelecer ambiente de negócios seguro para a comercialização de créditos de carbono no mercado internacional, sem criar novos tributos, e agregar valor à bioeconomia nacional.", "paginas": [48]},
+      {"proposta": "Ampliar investimentos privados em infraestrutura de contenção e monitoramento climático e apoiar municípios em planos diretores e drenagem urbana contra desastres.", "paginas": [48, 49]}
+    ],
+    "Agronegócio e Segurança Alimentar": [
+      {"proposta": "Abrir o mercado à concorrência para facilitar a produção e importação de fertilizantes e defensivos agrícolas e reorientar a Embrapa para inovação aplicada.", "paginas": [43]},
+      {"proposta": "Melhorar a logística de transporte de cargas (rodovias, ferrovias, hidrovias, portos e armazenagem) por meio de parcerias com o setor privado para reduzir o custo do frete.", "paginas": [44]},
+      {"proposta": "Facilitar o desenvolvimento do mercado de seguro rural com um fundo de aportes públicos e privados que cubra perdas por eventos climáticos, pragas e oscilações de mercado.", "paginas": [44]},
+      {"proposta": "Garantir ao produtor rural o porte de arma em toda a extensão da propriedade e o direito à autodefesa, com proteção do Estado contra invasões.", "paginas": [45]},
+      {"proposta": "Regularizar títulos de propriedades rurais e combater a grilagem e a entrada do crime organizado no agro com uso de sensoriamento remoto por satélite.", "paginas": [45, 46]},
+      {"proposta": "Posicionar o Brasil como protagonista global na produção e exportação de biocombustíveis e abrir novos mercados para os produtos do agronegócio brasileiro.", "paginas": [44, 45]}
+    ],
+    "Combate à Pobreza e Desenvolvimento Social": [
+      {"proposta": "Criar o programa Casas da Cidadania, com Plano de Desenvolvimento Social familiar integrando capacitação, inclusão no mercado de trabalho, renda e moradia.", "paginas": [63]},
+      {"proposta": "Condicionar a permanência de adultos aptos no Bolsa Família à busca de emprego, estudo ou qualificação, e conceder prêmio de R$ 5 mil às famílias que superarem o limite de renda.", "paginas": [63]},
+      {"proposta": "Unificar critérios de pobreza e concentrar as transferências de renda no Bolsa Família, aprimorando o CadÚnico com fontes alternativas de dados para combater fraudes.", "paginas": [63, 64]},
+      {"proposta": "Proibir barracas e abrigos improvisados em espaços públicos, ampliar moradia de interesse social (housing first) e apoiar a internação involuntária de dependentes químicos em situação de rua.", "paginas": [64]},
+      {"proposta": "Reformular o Minha Casa, Minha Vida para priorizar áreas com infraestrutura e serviços, e apoiar a regularização fundiária urbana e rural.", "paginas": [65]},
+      {"proposta": "Proteger pessoas vulneráveis condicionando repasses às Instituições de Longa Permanência para Idosos à fiscalização e fortalecendo a rede de acolhimento a vítimas de violência.", "paginas": [65, 66]}
+    ],
+    "Infraestrutura e Saneamento": [
+      {"proposta": "Elaborar o maior portfólio de investimentos em infraestrutura da história, combinando arranjos financeiros públicos, privados e internacionais e apoiando estados e municípios.", "paginas": [26]},
+      {"proposta": "Aplicar a nova Lei Geral do Licenciamento Ambiental e criar um regime de 'Projetos de Interesse Nacional' com tramitação prioritária para obras estratégicas.", "paginas": [27]},
+      {"proposta": "Recuperar a independência das agências reguladoras, fortalecer a governança do PPI e reunificar o Ministério da Infraestrutura.", "paginas": [28, 29]},
+      {"proposta": "Ampliar e modernizar a malha ferroviária (com prioridade a FICO, FIOL e Ferrogrão), expandir o sistema portuário e modernizar a gestão rodoviária por meio de concessões e PPPs.", "paginas": [29, 30]},
+      {"proposta": "Acelerar a universalização do saneamento básico por meio de regionalização, concessões e PPPs para cumprir as metas do Novo Marco do Saneamento.", "paginas": [31]},
+      {"proposta": "Conectar todo o Brasil à internet de qualidade, abrindo novas faixas de espectro para o 5G e levando conectividade a escolas, postos de saúde e regiões isoladas.", "paginas": [31]}
+    ],
+    "Política Externa e Soberania": [
+      {"proposta": "Orientar a política externa pelos interesses nacionais e pelo desenvolvimento, e não por alinhamentos ideológicos, recuperando o protagonismo regional na América do Sul.", "paginas": [36]},
+      {"proposta": "Retirar o Brasil do BRICS de forma diplomática, preservando relações comerciais, e retomar o processo de adesão à OCDE.", "paginas": [37]},
+      {"proposta": "Transformar o Mercosul de união aduaneira em zona de livre comércio para permitir que o Brasil assine acordos comerciais diretamente com mais países e blocos.", "paginas": [38]},
+      {"proposta": "Ampliar a presença do Estado nas fronteiras e na Amazônia e buscar cooperação internacional para combater as facções criminosas, como PCC e CV.", "paginas": [38]},
+      {"proposta": "Modernizar os sistemas de defesa e inteligência, promover a integração das Forças Armadas via Estado-Maior Conjunto e otimizar o orçamento da Defesa.", "paginas": [77, 78]}
+    ],
+    "Gestão Pública / Reforma do Estado / Instituições": [
+      {"proposta": "Limitar drasticamente o foro privilegiado, mantendo-o apenas para o Presidente da República, e endurecer as penas de corrupção condicionando a progressão de regime à devolução dos recursos desviados.", "paginas": [8]},
+      {"proposta": "Acabar com privilégios como supersalários e aposentadoria compulsória como punição, e tornar a transparência a regra, acabando com o sigilo de 100 anos.", "paginas": [9, 10]},
+      {"proposta": "Limitar o poder do STF: acabar com decisões monocráticas, retirar matérias tributárias e penais de sua competência e conter o ativismo judicial sobre decisões do Congresso.", "paginas": [11, 12]},
+      {"proposta": "Moralizar o Judiciário e órgãos de controle, proibindo indicações políticas para tribunais, criando corregedoria independente para o STF e exigindo critérios técnicos para indicações.", "paginas": [12, 13]},
+      {"proposta": "Fortalecer a gestão por resultados no setor público, com contratos de desempenho, avaliação com consequências (inclusive desligamento) e enxugamento da máquina pública.", "paginas": [39, 40, 42]},
+      {"proposta": "Reformar as instituições: adotar voto distrital misto, extinguir os fundos Partidário e Eleitoral, autorizar candidaturas independentes e racionalizar as emendas parlamentares.", "paginas": [74, 75]}
+    ],
+    "Cultura, Esporte e Turismo": [
+      {"proposta": "Atrair investimentos privados para o esporte e condicionar repasses públicos à gestão profissional, governança e transparência das confederações e federações esportivas.", "paginas": [67]},
+      {"proposta": "Conectar as políticas de esporte às estratégias de saúde e educação, usando a atividade física para prevenir doenças crônicas e reduzir a evasão escolar.", "paginas": [68]},
+      {"proposta": "Concentrar o financiamento da cultura em artistas locais e produções regionais, com limites de captação para grandes produtores já consolidados (revisão da Lei Rouanet).", "paginas": [69]},
+      {"proposta": "Modernizar as ferramentas de proteção do patrimônio histórico e cultural, como o tombamento, e incentivar parcerias privadas e fundos patrimoniais (endowments) para museus.", "paginas": [69, 70]},
+      {"proposta": "Aumentar a atratividade de parques e destinos turísticos por meio de concessões e parcerias privadas, e enfrentar a segurança pública como principal obstáculo ao turismo.", "paginas": [71]},
+      {"proposta": "Profissionalizar a gestão do turismo, capacitar profissionais do setor em parceria com o Sistema S e fortalecer a promoção nacional e internacional dos destinos brasileiros.", "paginas": [71, 72]}
+    ]
+  }
+}
