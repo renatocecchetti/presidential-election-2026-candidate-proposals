@@ -99,13 +99,50 @@
 
   /* responsive: stacked cards on small screens */
   @media (max-width:1024px){
-    .grid{grid-template-columns:1fr}
+    .grid{grid-template-columns:1fr !important}
     .col{border-right:none;border-bottom:1px solid var(--border)}
     .col:last-child{border-bottom:none}
-    .col-head{position:static}
+    /* candidate name becomes a full-width banner on top of each stacked block */
+    .col-head{
+      position:static;
+      background:var(--panel);
+      border-left:4px solid var(--cand-color,var(--accent));
+      font-size:.95rem;
+    }
+  }
+
+  @media (max-width:600px){
+    .wrap{padding:0 12px}
+    header.top{padding:18px 4px 14px}
+    h1{font-size:1.15rem;line-height:1.3}
+    .sub{font-size:.86rem}
+    .disclaimer{font-size:.8rem;padding:10px 12px}
+
+    /* controls: each field takes full width and stacks */
+    .controls{padding:10px 0}
+    .controls .row{gap:10px}
+    .field{width:100%}
+    select,input[type=search]{width:100%;min-width:0;font-size:16px} /* 16px evita zoom no iOS */
+    .btn{flex:1;min-width:calc(50% - 6px);text-align:center}
+    .count{margin-left:0;width:100%;order:99}
+
+    /* theme header a bit more compact */
+    .theme-head{padding:12px 12px;gap:10px}
+    .theme-head h2{font-size:1rem}
+    .theme-head .idx{width:26px;height:26px;font-size:.8rem}
+
+    .cell{padding:10px}
+    .prop{font-size:.92rem;padding:12px 12px}
+    .prop .src{font-size:.8rem}
+    .src a{padding:4px 10px;font-size:.8rem}
+
+    /* larger, tappable legend chips */
+    .cand-chip{font-size:.82rem;padding:6px 10px}
   }
   footer{border-top:1px solid var(--border);padding:24px 0;color:var(--muted);font-size:.82rem}
   .hidden{display:none !important}
+  .mobile-hint{display:none;margin:0 0 16px;padding:10px 12px;background:var(--panel2);border:1px solid var(--border);border-radius:10px;color:var(--muted);font-size:.85rem}
+  @media (max-width:600px){ .mobile-hint{display:block} }
 </style>
 </head>
 <body>
@@ -150,6 +187,7 @@
 <main>
   <div class="wrap">
     <div class="legend" id="legend"></div>
+    <p class="mobile-hint">📱 Dica: em telas pequenas, use os filtros de <strong>Eixo</strong> e <strong>Candidato</strong> acima para focar a leitura.</p>
     <div id="app"></div>
   </div>
 </main>
@@ -220,6 +258,7 @@ function render(){
     candIdx.forEach(ci=>{
       const c=DATA[ci];
       const col=document.createElement('div');col.className='col';
+      col.style.setProperty('--cand-color',COLORS[ci]);
       const ch=document.createElement('div');ch.className='col-head';
       ch.innerHTML=`<span class="dot" style="background:${COLORS[ci]}"></span>${esc(c.candidato)} <span class="party">${esc(c.partido)}</span>`;
       col.appendChild(ch);
