@@ -1,0 +1,103 @@
+{
+  "candidato": "Lula",
+  "partido": "PT",
+  "arquivo_pdf": "lula-pt.pdf",
+  "eixos": {
+    "Economia e Responsabilidade Fiscal": [
+      {"proposta": "Manter o novo arcabouço fiscal, que controla o crescimento das despesas, com o objetivo de reduzir de forma sustentada as taxas de juros mantendo a inflação controlada.", "paginas": [11, 49]},
+      {"proposta": "Buscar o resultado fiscal por meio da retomada do crescimento, do controle do gasto primário, da melhoria da eficiência e qualidade do gasto público e do combate a privilégios e distorções.", "paginas": [49]},
+      {"proposta": "Regulamentar a reforma tributária do consumo (substituição de cinco tributos por CBS e IBS), com isenção da cesta básica e mecanismo de cashback para os mais pobres, e assegurar tratamento tributário justo às pequenas empresas.", "paginas": [11, 19, 57]},
+      {"proposta": "Aprofundar o mercado de capitais doméstico (debêntures de infraestrutura, fundos de investimento em participações e mercado secundário de recebíveis) e ampliar a atuação de investidores institucionais como financiadores de longo prazo.", "paginas": [49]},
+      {"proposta": "Monitorar o endividamento de famílias e empresas, manter fundos garantidores, controlar gastos com apostas on-line e aprimorar regras de responsabilidade na concessão de crédito, com continuidade do programa Desenrola Brasil.", "paginas": [12, 49]},
+      {"proposta": "Elevar a taxa de investimento da economia, ampliando investimentos em infraestrutura logística e social e incentivando o investimento privado na indústria com foco em inovação.", "paginas": [48]}
+    ],
+    "Segurança Pública": [
+      {"proposta": "Aprovar a PEC da Segurança Pública e criar o Ministério da Segurança Pública para coordenar as políticas nacionais no âmbito do Sistema Único de Segurança Pública (SUSP).", "paginas": [27, 30]},
+      {"proposta": "Fortalecer o Programa Brasil Contra o Crime Organizado, com R$ 10 bilhões do FIIS para estados e municípios, focando no combate ao tráfico de armas, asfixia financeira do crime e das milícias e retomada de territórios.", "paginas": [27, 28]},
+      {"proposta": "Manter a política de controle de armas e munições, aprimorando a rastreabilidade e reforçando a fiscalização da Polícia Federal e do Exército sobre segurança privada e registros de caçadores, atiradores e colecionadores.", "paginas": [28]},
+      {"proposta": "Cumprir as metas do Plano Pena Justa, instituir o Pacto Nacional de Execução Penal e fortalecer o sistema penitenciário federal, com protocolo nacional de classificação e transferência de presos de alta periculosidade.", "paginas": [28]},
+      {"proposta": "Ampliar o programa de câmeras corporais com padrões nacionais, implantar policiamento de proximidade e fortalecer os mecanismos de controle interno e externo da atividade policial.", "paginas": [30]},
+      {"proposta": "Fortalecer a segurança na Amazônia Legal com as Forças Integradas de Combate ao Crime Organizado (FICCOs), presença das Forças Armadas nas fronteiras e investimento em radares, drones, sensores e imagens de satélite.", "paginas": [29]}
+    ],
+    "Saúde": [
+      {"proposta": "Consolidar o prontuário único do cidadão pela Rede Nacional de Dados em Saúde (RNDS) e ampliar o uso de saúde digital (teleconsulta, teleorientação) e de inteligência artificial na triagem e regulação por risco clínico.", "paginas": [35]},
+      {"proposta": "Impulsionar o programa Agora Tem Especialistas para reduzir filas, com expansão do terceiro turno, Carretas da Saúde, mutirões, fila única digital ordenada por risco clínico e parceria com hospitais privados.", "paginas": [37, 38]},
+      {"proposta": "Manter o Farmácia Popular 100% gratuito, ampliando os medicamentos ofertados e incluindo exames laboratoriais e de monitoramento de condições crônicas como hipertensão e diabetes.", "paginas": [36]},
+      {"proposta": "Ampliar a cobertura vacinal com campanhas nacionais e vacinação nas escolas, incorporando novas vacinas ao SUS (dengue, VSR, HPV, Pneumo 20).", "paginas": [36, 37]},
+      {"proposta": "Consolidar a maior rede pública de cuidado ao câncer, ampliando centros de radioterapia, cirurgias e os Centros Especializados (UNACONS e CACONS) e o Supercentro Brasil de telediagnóstico.", "paginas": [38]},
+      {"proposta": "Fortalecer o Complexo Econômico e Industrial da Saúde (CEIS) e as Parcerias para Desenvolvimento Produtivo (PDPs) para ampliar a soberania sanitária e a produção nacional de insumos, incluindo insulina e hemoderivados.", "paginas": [39]}
+    ],
+    "Educação": [
+      {"proposta": "Cumprir as metas do Plano Nacional de Educação 2026-2036 e ampliar o Compromisso Nacional Criança Alfabetizada para atingir 80% de crianças alfabetizadas na idade certa.", "paginas": [31]},
+      {"proposta": "Dar prioridade absoluta à expansão da educação em tempo integral, com financiamento pelo Fundeb, e ampliar o apoio à construção de creches e escolas de educação infantil pelo Novo PAC.", "paginas": [31, 32]},
+      {"proposta": "Dar continuidade e fortalecer o programa Pé-de-Meia para combater a evasão no ensino médio, para que nenhum jovem deixe a escola por falta de renda.", "paginas": [32]},
+      {"proposta": "Manter o Piso Nacional do Magistério e apoiar a formação e fixação docente por meio de programas como o Pé-de-Meia Licenciatura e o Bolsa Mais Professores.", "paginas": [33]},
+      {"proposta": "Expandir a rede de institutos federais de educação técnica e tecnológica (mais 111 IFs em 106 municípios), priorizando a interiorização e os vazios educacionais.", "paginas": [33]},
+      {"proposta": "Dar sequência ao fomento ao ensino superior público com novo ciclo de expansão e interiorização, conclusão de novos campi e implantação da Universidade Indígena e da Universidade do Esporte.", "paginas": [33]}
+    ],
+    "Trabalho e Emprego": [
+      {"proposta": "Dar continuidade à política de valorização real do salário mínimo como meio de distribuição de renda e combate à pobreza.", "paginas": [74]},
+      {"proposta": "Expandir a Plataforma Pública Nacional de Empregabilidade com IA na rede SINE, integrando vagas, cursos, certificações e orientação profissional, e ampliar as políticas de qualificação profissional.", "paginas": [74]},
+      {"proposta": "Consolidar um sistema de proteção aos trabalhadores de plataformas e da economia digital, com regras de relação de trabalho, remuneração, direitos laborais e previdenciários e transparência algorítmica.", "paginas": [74, 75]},
+      {"proposta": "Atuar junto ao Senado para assegurar o fim da escala 6x1 e a redução da jornada para 40 horas semanais sem redução salarial.", "paginas": [75]},
+      {"proposta": "Combater a pejotização espúria com fiscalização e regras que inibam migrações fraudulentas, e fortalecer a implementação da Lei de Igualdade Salarial com planos de ação obrigatórios nas empresas.", "paginas": [74, 75]},
+      {"proposta": "Aprimorar a Previdência Social, reduzir filas do INSS, reestruturar a base de financiamento e criar mecanismos contributivos mais flexíveis para trajetórias ocupacionais descontínuas.", "paginas": [77]}
+    ],
+    "Meio Ambiente e Energia": [
+      {"proposta": "Alcançar o desmatamento líquido zero até 2030, com atuação integrada nos planos de prevenção e controle e implementação do Plano Nacional de Manejo Integrado do Fogo.", "paginas": [70]},
+      {"proposta": "Cumprir a nova NDC (redução de 59% a 67% das emissões líquidas até 2035) e ampliar instrumentos de financiamento climático como o Fundo Clima, o Eco Invest e o Fundo Florestas Tropicais para Sempre (TFFF).", "paginas": [69, 70, 71]},
+      {"proposta": "Expandir monitoramento satelital e inteligência artificial no combate a crimes ambientais e estabelecer mecanismos de rastreabilidade e devida diligência nas cadeias produtivas.", "paginas": [72]},
+      {"proposta": "Ampliar a participação de fontes renováveis, investir em armazenamento por baterias e flexibilidade do sistema elétrico e substituir combustíveis fósseis por biocombustíveis e derivados de hidrogênio.", "paginas": [64]},
+      {"proposta": "Manter programas de combate à pobreza energética como o Luz do Povo (Tarifa Social ampliada), o Luz para Todos e o Gás do Povo (recarga gratuita de botijão para famílias de baixa renda).", "paginas": [65, 66]},
+      {"proposta": "Ampliar a produção de biocombustíveis (etanol, biodiesel, biometano, SAF) e a autossuficiência em fertilizantes, e desenvolver o hidrogênio de baixo carbono e a energia eólica offshore.", "paginas": [62, 63, 67, 68]}
+    ],
+    "Agronegócio e Segurança Alimentar": [
+      {"proposta": "Expandir o Plano Safra da Agricultura Familiar com crédito adaptado ao perfil do agricultor e linhas diferenciadas para jovens, mulheres, cooperativas, agroecologia e produção orgânica.", "paginas": [59, 60]},
+      {"proposta": "Manter e ampliar o PAA (Programa de Aquisição de Alimentos) e elevar a compra de alimentos da agricultura familiar para a alimentação escolar, priorizando alimentos in natura.", "paginas": [58, 59]},
+      {"proposta": "Fortalecer o crédito rural do agronegócio, ampliando recursos do Plano Safra e priorizando o financiamento de máquinas, irrigação e tecnologias para aumento da produtividade.", "paginas": [61]},
+      {"proposta": "Implementar um programa nacional de resiliência climática no campo, com ampliação de áreas irrigadas, conservação de solos, agricultura de precisão e sistemas de alerta precoce, e fortalecer o seguro rural e o Garantia-Safra.", "paginas": [60, 61, 62]},
+      {"proposta": "Recuperar pastagens degradadas, apoiar o melhoramento genético do rebanho e implantar rastreabilidade individual do gado do nascimento ao abate para atender mercados internacionais.", "paginas": [62]},
+      {"proposta": "Fortalecer a Embrapa em biotecnologia e edição genômica e abrir novos mercados internacionais para produtos agrícolas e pecuários, ampliando a diplomacia comercial e os adidos agrícolas.", "paginas": [62]}
+    ],
+    "Combate à Pobreza e Desenvolvimento Social": [
+      {"proposta": "Manter, aperfeiçoar e ampliar o Bolsa Família e as políticas de proteção social, com benefícios especiais para crianças e adolescentes.", "paginas": [18, 19, 24]},
+      {"proposta": "Fortalecer o SUAS (Sistema Único de Assistência Social), expandindo a Proteção Social Básica e Especial e integrando-o à agenda de enfrentamento às mudanças climáticas e desastres.", "paginas": [25]},
+      {"proposta": "Implementar a Política Nacional de Cuidados, apoiando Cuidotecas, lavanderias públicas, cozinhas solidárias e restaurantes populares, e capacitar cuidadores.", "paginas": [25, 26]},
+      {"proposta": "Ampliar as políticas de proteção às mulheres com o Pacto de Enfrentamento ao Feminicídio, concluindo 30 Casas da Mulher Brasileira e 15 Centros de Referência e ampliando as Salas Lilás.", "paginas": [21]},
+      {"proposta": "Intensificar ações de promoção da autonomia e cuidado das pessoas idosas, ampliando os Centros-Dia, as vagas em ILPIs e o Programa de Atenção Domiciliar ao Idoso (PADI Brasil).", "paginas": [22]},
+      {"proposta": "Acelerar a titulação de territórios quilombolas, dar continuidade à demarcação e desintrusão de terras indígenas e implantar plenamente a Universidade Indígena.", "paginas": [19, 20]}
+    ],
+    "Infraestrutura e Saneamento": [
+      {"proposta": "Manter e ampliar o Minha Casa Minha Vida para todas as faixas de renda, com meta de 3 milhões de moradias, novos instrumentos como o Compra Assistida e o Fundo Imobiliário da União, e ampliar o Reforma Casa Brasil.", "paginas": [45, 46]},
+      {"proposta": "Apoiar estados e municípios na universalização do acesso à água tratada e ao esgotamento sanitário, priorizando periferias historicamente negligenciadas.", "paginas": [46]},
+      {"proposta": "Investir em transporte coletivo de alta capacidade (metrôs, trens, VLTs, corredores BRT), renovar frotas e promover a eletrificação progressiva do transporte urbano integrada à indústria nacional.", "paginas": [46]},
+      {"proposta": "Manter o Novo PAC articulando investimentos públicos e privados em logística, com novas concessões rodoviárias e ferroviárias e fortalecimento de aeroportos regionais e novos arrendamentos portuários.", "paginas": [53, 54]},
+      {"proposta": "Investir em obras de contenção de encostas e drenagem urbana sustentável em áreas de risco alto, aprimorar a Defesa Civil e fomentar a adaptação climática das cidades.", "paginas": [47]},
+      {"proposta": "Reduzir o déficit de fibra óptica que atinge 11% dos municípios, ampliar o 5G no campo com prioridade para Norte, Nordeste e periferias e manter o uso do FUST.", "paginas": [55]}
+    ],
+    "Política Externa e Soberania": [
+      {"proposta": "Fortalecer a Base Industrial e Tecnológica de Defesa e o reequipamento das Forças Armadas (caças Gripen, cargueiros KC-390, fragatas), assegurando previsibilidade orçamentária e autonomia estratégica.", "paginas": [78]},
+      {"proposta": "Reforçar a defesa cibernética e a Inteligência de Estado de caráter civil, proteger as fronteiras, a Amazônia e a Amazônia Azul e combater o crime organizado transnacional.", "paginas": [79]},
+      {"proposta": "Aprofundar a integração sul-americana e consolidar o Mercosul como plataforma de integração econômica, com mercado comum de energia e redes multimodais conectando o Pacífico e o Caribe.", "paginas": [80]},
+      {"proposta": "Manter política externa universalista, diversificar parcerias com África, Ásia, Oriente Médio e Europa e aprofundar a aproximação com os BRICS, o G20 e o Sul Global.", "paginas": [80, 81]},
+      {"proposta": "Engajar-se na reforma das Nações Unidas (especialmente do Conselho de Segurança), da OMC e da arquitetura financeira internacional (FMI, Banco Mundial, NDB).", "paginas": [81]},
+      {"proposta": "Priorizar a implementação da Aliança Global contra a Fome e a Pobreza e o Fundo Florestas Tropicais para Sempre (TFFF) e liderar a governança internacional de tecnologias digitais e inteligência artificial.", "paginas": [81, 82]}
+    ],
+    "Gestão Pública / Reforma do Estado / Instituições": [
+      {"proposta": "Aprofundar a participação e o controle social nas políticas públicas, tornando o PPA 2028-2031 e o ciclo orçamentário federal mais participativos por meio de conferências e da plataforma Brasil Participativo.", "paginas": [15]},
+      {"proposta": "Enfrentar as distorções do sistema de emendas parlamentares e do orçamento secreto, levando o tema ao debate com a sociedade.", "paginas": [15, 16]},
+      {"proposta": "Avançar na regulação democrática das redes sociais e plataformas digitais contra a desinformação e campanhas de ódio, preservando a liberdade de expressão.", "paginas": [16]},
+      {"proposta": "Universalizar serviços públicos digitais de qualidade (como o Gov.br), instituir uma Política Nacional de Letramento Digital e criar um Conselho Nacional pela Soberania Digital.", "paginas": [17]},
+      {"proposta": "Dar sequência ao Plano de Integridade e Combate à Corrupção 2025-2027 e evoluir o Portal da Transparência para uma plataforma baseada em dados abertos e inteligência artificial.", "paginas": [18]},
+      {"proposta": "Aprofundar a reestruturação da gestão de pessoas do governo federal a partir da Mesa Nacional de Negociação Permanente e aprimorar o poder de compra do Estado como ferramenta de desenvolvimento.", "paginas": [16, 17]}
+    ],
+    "Cultura, Esporte e Turismo": [
+      {"proposta": "Aperfeiçoar e implementar de forma transparente os instrumentos de fomento à cultura (Lei Aldir Blanc e Lei Rouanet), com desconcentração regional e fortalecimento da participação social.", "paginas": [40, 41]},
+      {"proposta": "Fortalecer as iniciativas culturais comunitárias (Cultura Viva e Pontos de Cultura) e ampliar a infraestrutura cultural em territórios periféricos.", "paginas": [41]},
+      {"proposta": "Aprovar a regulamentação do streaming (VOD) de interesse nacional, consolidar uma política industrial para o audiovisual e aprovar lei de direito autoral em ambiente digital, remunerando artistas pelo uso de conteúdo por plataformas.", "paginas": [42]},
+      {"proposta": "Ampliar e fortalecer o Bolsa Atleta, manter o patrocínio de estatais ao esporte de alto rendimento e implementar a Universidade do Esporte.", "paginas": [43]},
+      {"proposta": "Realizar a Copa do Mundo de Futebol Feminino em 8 capitais brasileiras e ampliar o apoio às Arenas Brasil para democratizar o acesso à prática esportiva.", "paginas": [43, 44]},
+      {"proposta": "Desenvolver destinos turísticos baseados na riqueza natural e cultural, criar novos roteiros (gastronomia, arte, ecoturismo) e ampliar a promoção internacional do Brasil.", "paginas": [56, 57]}
+    ]
+  }
+}

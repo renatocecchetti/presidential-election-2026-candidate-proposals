@@ -1,0 +1,96 @@
+{
+  "candidato": "Augusto Cury",
+  "partido": "Avante",
+  "arquivo_pdf": "augusto-cury-avante.pdf",
+  "eixos": {
+    "Economia e Responsabilidade Fiscal": [
+      {"proposta": "Perseguir déficit público próximo de zero durante o mandato, sem aventuras fiscais, e promover redução gradual e sustentável da dívida pública por meio de crescimento, controle de gastos e equilíbrio das contas.", "paginas": [36]},
+      {"proposta": "Controlar rigorosamente os gastos públicos, com metas de eficiência e avaliação de resultados por ministério, eliminando gastos improdutivos e redirecionando recursos para áreas essenciais.", "paginas": [36]},
+      {"proposta": "Simplificar o sistema tributário, reduzir a burocracia e os custos de conformidade, com compromisso de carga tributária menor ao fim da transição e revisão do pacto federativo para favorecer mais os municípios.", "paginas": [37, 38]},
+      {"proposta": "Criar uma Secretaria Executiva ou novo Ministério do Empreendedorismo e da Economia Distribuída, com Banco do Empreendedor oferecendo crédito de até R$ 20 mil a juros de 5% a 6% ao ano e 10.000 Clubes de Empreendedorismo, visando formar 10 milhões de microempresas.", "paginas": [95, 97, 98]},
+      {"proposta": "Reformular o Bolsa Família para que famílias beneficiárias não sejam punidas ao assinar carteira ou abrir microempresa, sendo premiadas com incentivos e juros mais baixos para estimular renda e empreendedorismo.", "paginas": [98, 99]}
+    ],
+    "Segurança Pública": [
+      {"proposta": "Recriar o Ministério da Segurança Pública e implantar o Projeto FATO (Força Alerta Total), integrando permanentemente Polícia Federal, Polícia Militar, Polícia Civil e a nova FOCO, respeitando as competências constitucionais de cada instituição.", "paginas": [37, 45, 186, 187]},
+      {"proposta": "Criar a FOCO (Força de Combate Municipal), composta por cerca de 5% da força de trabalho do serviço público municipal, sem aumento de efetivo, atuando em prevenção, monitoramento urbano, proteção escolar e apoio às demais polícias.", "paginas": [45, 187]},
+      {"proposta": "Implantar um Centro Integrado de Inteligência que reúna em tempo real mandados, veículos roubados, armas ilegais e informações do crime organizado, usando tecnologia 4.0 como IA, drones, reconhecimento facial (conforme a lei) e análise preditiva.", "paginas": [187, 188]},
+      {"proposta": "Enfraquecer financeiramente as organizações criminosas por meio da integração entre Receita Federal, COAF, Polícia Federal, Ministério Público e Judiciário, atacando o patrimônio e os recursos ilícitos das facções.", "paginas": [45, 46, 189, 190]},
+      {"proposta": "Fortalecer o controle de fronteiras com uso intensivo de drones, satélites, sensores e IA, e ampliar a atuação das Forças Armadas nas fronteiras terrestres, portos e rotas aéreas contra o tráfico e o contrabando.", "paginas": [46, 190]},
+      {"proposta": "Valorizar os profissionais de segurança com melhores salários, plano de carreira, bônus por desempenho, assistência psicológica, equipamentos modernos e seguro de vida.", "paginas": [188, 189]}
+    ],
+    "Saúde": [
+      {"proposta": "Criar o Projeto Tele Saúde Brasil para transformar o país na maior plataforma pública de medicina digital do mundo, com meta de atendimento em até 30 minutos para casos compatíveis e triagem inicial por inteligência artificial, desafogando o SUS.", "paginas": [161, 162, 163]},
+      {"proposta": "Fortalecer a atenção primária e modernizar o SUS com digitalização de prontuários, integração de sistemas, redução de filas e indicadores de desempenho.", "paginas": [44]},
+      {"proposta": "Implantar o Projeto SEA (Sociedade Está Abraçando) de prevenção e detecção precoce do câncer, com comitês municipais, unidades móveis e rastreamento organizado, inspirado no modelo do Hospital de Amor de Barretos.", "paginas": [166, 170, 171, 172]},
+      {"proposta": "Implantar um Programa Nacional de Saúde Mental envolvendo escolas, empresas, universidades e unidades de saúde, com prevenção da ansiedade, automutilação e suicídio e identificação precoce de fatores de risco.", "paginas": [44, 45]},
+      {"proposta": "Criar pontos públicos de acesso digital assistido em unidades básicas de saúde, escolas e comunidades remotas para garantir acesso à telemedicina a quem não possui equipamento ou conexão.", "paginas": [163]}
+    ],
+    "Educação": [
+      {"proposta": "Implantar o Projeto Revolução da Educação, adotando escola de tempo integral como 'clube de desenvolvimento humano' e a Metodologia Psicoativa, com professor que provoca a arte de perguntar, participar e pensar.", "paginas": [68, 74, 75]},
+      {"proposta": "Incorporar ao currículo os pilares de Gestão da Emoção, Educação Financeira e Empreendedorismo, além de cooperativismo, inteligência artificial e desenvolvimento de projetos no Novo Ensino Médio.", "paginas": [75, 76, 77]},
+      {"proposta": "Instituir o Projeto Brasil Neuroinclusivo, política permanente de Estado para acolher pessoas neurodivergentes (autismo, TDAH, dislexia), com formação de professores, salas neuroinclusivas e o Mapa Nacional da Neurodiversidade.", "paginas": [81, 82, 83]},
+      {"proposta": "Transformar as universidades em ecossistemas de inovação que ensinam, pesquisam, empreendem e geram patentes e riqueza, ampliando as ações da CAPES e do CNPq.", "paginas": [78, 79]},
+      {"proposta": "Priorizar a educação básica com alfabetização na idade certa, valorização dos professores (formação continuada e remuneração por qualificação) e expansão do ensino técnico e profissionalizante integrado ao ensino médio.", "paginas": [43, 44]},
+      {"proposta": "Implantar programas permanentes de gestão da emoção nas escolas para prevenção de ansiedade, depressão, automutilação, bullying e violência escolar.", "paginas": [43, 44]}
+    ],
+    "Trabalho e Emprego": [
+      {"proposta": "Formar 10 milhões de novos empreendedores e microempresas para prevenir o desemprego estrutural na era da inteligência artificial e da robótica, tratando o empreendedorismo como 'vacina econômica'.", "paginas": [39, 40, 95, 96]},
+      {"proposta": "Criar um programa nacional de primeiro emprego e transição da juventude ao mercado, com incentivos fiscais para empresas que contratarem jovens, estágios ampliados e programas de aprendizagem tecnológica.", "paginas": [57]},
+      {"proposta": "Implantar o Projeto BEE (Brasil Empreendedor nas Estradas), com polos padronizados de comércio popular ao longo das rodovias e mutirão de formalização com licença em até 48 horas e inclusão no Simples Nacional.", "paginas": [120, 121, 122]},
+      {"proposta": "Criar Escolas do Empreendedor e o Banco do Empreendedor para qualificar e financiar trabalhadores, com crédito progressivo (de R$ 2 mil a R$ 20 mil) e prioridade para populações vulneráveis.", "paginas": [39, 106, 107, 108]},
+      {"proposta": "Direcionar prioritariamente mulheres vítimas de violência e em vulnerabilidade a programas de qualificação, empregabilidade, empreendedorismo, microcrédito e reconstrução da autonomia econômica.", "paginas": [88, 89]}
+    ],
+    "Meio Ambiente e Energia": [
+      {"proposta": "Implantar o Projeto PENER-BR de energias renováveis, com meta de 90% de matriz limpa até 2040 e tornar o Brasil TOP 3 global em exportação de hidrogênio verde até 2035, criando o Corredor Nacional do Hidrogênio Verde.", "paginas": [175, 176]},
+      {"proposta": "Implantar o Projeto Floresta Viva-BR de proteção ambiental e combate a incêndios com detecção precoce por satélites e IA, drones de resposta rápida, sensores IoT e sala de comando integrada 24/7.", "paginas": [182]},
+      {"proposta": "Executar o Programa Amazônia Viva, integrando preservação e desenvolvimento humano com microempresas de bioeconomia, pesca sustentável, infraestrutura básica e o Banco Empreendedor Amazônico.", "paginas": [183, 184]},
+      {"proposta": "Regulamentar o mercado de carbono com segurança jurídica e instituir mecanismos de Pagamento por Serviços Ambientais (PSA) para remunerar produtores que preservam a vegetação nativa.", "paginas": [51, 52]},
+      {"proposta": "Expandir investimentos em energia solar, eólica offshore, biomassa e energia marítima, industrializando a cadeia com fábricas de equipamentos solares e eólicos e integração com o agronegócio.", "paginas": [50, 51, 176]}
+    ],
+    "Agronegócio e Segurança Alimentar": [
+      {"proposta": "Implantar o Projeto Brasil Oásis para transformar o Semiárido em plataforma tropical de fruticultura irrigada e cultivo protegido, com metas de dobrar a produção de alimentos em 8 a 10 anos e multiplicar por 10 as exportações de frutas.", "paginas": [114, 116, 117]},
+      {"proposta": "Criar o Projeto Agroindústria Brasil / Brasil Proteína 10.000 para instalar 10 mil agroindústrias e 100 usinas de etanol de milho, transformando o país de celeiro em agroindústria e 'supermercado do mundo'.", "paginas": [126, 127, 128]},
+      {"proposta": "Turbinar os 3,9 milhões de estabelecimentos da agricultura familiar (programa Raízes do Brasil) com crédito civilizado, assistência técnica, irrigação, cooperativismo e acesso a mercados.", "paginas": [115, 117, 118]},
+      {"proposta": "Implantar o Projeto BCOO (Brasil Cooperativismo), com meta de dobrar o número de cooperativas e cooperados (de 27 para 54 milhões) e criar a Autoridade Nacional do Cooperativismo (ANCOOP).", "paginas": [131, 132, 137, 138]},
+      {"proposta": "Ampliar o Programa de Subvenção ao Prêmio do Seguro Rural (PSR) e estabelecer prazos máximos legais para licenciamento ambiental, sanitário e outorga de água, com procedimento digital integrado por nível de risco.", "paginas": [47, 48, 49]},
+      {"proposta": "Propor um Plano de Combate Mundial da Fome, defendendo um fundo internacional de erradicação da fome financiado por 0,5% do comércio global e 2% da indústria de armamentos.", "paginas": [151, 157]}
+    ],
+    "Combate à Pobreza e Desenvolvimento Social": [
+      {"proposta": "Implantar o Projeto Comunidades Empreendedoras do Brasil, com regularização fundiária (meta de 5 milhões de moradias em dez anos), Escola do Empreendedor, Banco do Empreendedor e urbanização 4.0 em favelas e comunidades urbanas.", "paginas": [105, 106, 107]},
+      {"proposta": "Estruturar o Fundo Nacional do Empreendedor (R$ 30 a 50 bilhões) como capital rotativo para financiar pelo menos 2 milhões de pequenos empreendedores em dez anos.", "paginas": [108, 111]},
+      {"proposta": "Ampliar programas de inclusão produtiva para que famílias em vulnerabilidade tenham acesso a renda, capacitação e oportunidades de ascensão social, tratando o Bolsa Família como impulso ao empreendedorismo, não como assistencialismo.", "paginas": [62, 98, 99]},
+      {"proposta": "Fortalecer cooperativas de consumo, saúde, medicamentos e crédito para reduzir o custo de vida das famílias, permitindo compra coletiva de alimentos e medicamentos a preços mais baixos.", "paginas": [134, 135]},
+      {"proposta": "Priorizar o desenvolvimento regional com o Fundo Nacional de Desenvolvimento Regional por critérios técnicos, polos produtivos e fortalecimento de cidades médias, reduzindo desigualdades entre regiões.", "paginas": [61, 62]}
+    ],
+    "Infraestrutura e Saneamento": [
+      {"proposta": "Ampliar concessões e parcerias público-privadas, com regras claras e fiscalização, para acelerar obras e atrair investimentos nacionais e internacionais em infraestrutura.", "paginas": [49, 50]},
+      {"proposta": "Implantar um programa nacional de integração logística (rodovias, ferrovias, hidrovias, portos e aeroportos) e enfrentar o gargalo da armazenagem com incentivos à construção de armazéns.", "paginas": [50]},
+      {"proposta": "Fazer cumprir o Marco Legal do Saneamento Básico como prioridade nacional, universalizando o acesso à água tratada e ao tratamento de esgoto.", "paginas": [50]},
+      {"proposta": "Universalizar a infraestrutura digital, levando internet de alta velocidade a escolas, hospitais, comunidades rurais e regiões remotas para reduzir a exclusão digital.", "paginas": [50]},
+      {"proposta": "Duplicar as principais rodovias e implantar polos de infraestrutura (energia solar, estacionamento seguro, áreas de descanso) ao longo da malha rodoviária dentro do Projeto BEE.", "paginas": [120, 121]}
+    ],
+    "Política Externa e Soberania": [
+      {"proposta": "Implantar o Projeto Embaixadas Empreendedoras (PEE) / Embaixada 4.0, transformando embaixadas e consulados em plataformas de promoção comercial orientadas por metas, com feiras internacionais e núcleos de inteligência comercial.", "paginas": [59, 146, 148, 149]},
+      {"proposta": "Redistribuir o efetivo diplomático segundo a geografia do comércio do século XXI, deslocando cerca de 20% do efetivo dos EUA para a Índia e mercados asiáticos e 10% da Europa para China e Oriente Médio.", "paginas": [147]},
+      {"proposta": "Elevar o Ministério das Relações Exteriores a novo patamar estratégico, com o ministro passando a ser chamado de Secretário de Estado e a diplomacia tratada como política de Estado, com meta de dobrar o comércio do Brasil com o mundo em oito anos.", "paginas": [59, 64, 65, 150]},
+      {"proposta": "Implantar o Projeto Petra BR para transformar terras raras e minerais estratégicos em riqueza nacional, exigindo processamento e industrialização em território brasileiro e transferência de tecnologia em acordos internacionais.", "paginas": [65, 178, 179]},
+      {"proposta": "Fortalecer a soberania digital, a segurança cibernética e a proteção de dados estratégicos, reduzindo dependências externas em áreas críticas.", "paginas": [58]}
+    ],
+    "Gestão Pública / Reforma do Estado / Instituições": [
+      {"proposta": "Realizar ampla reforma administrativa para simplificar estruturas, eliminar sobreposições, modernizar carreiras e criar mecanismos permanentes de avaliação de desempenho.", "paginas": [36, 37]},
+      {"proposta": "Transformar o Brasil em referência em governo totalmente digital, com metas anuais mensuráveis e públicas para todos os ministérios e prestação de contas periódica à sociedade.", "paginas": [38, 39]},
+      {"proposta": "Usar Inteligência Artificial para identificar fraudes, sobrepreços e desperdícios, e implantar o Programa SEO (Sociedade Está de Olho) de controle social dos recursos públicos.", "paginas": [39, 52]},
+      {"proposta": "Adotar o modelo semipresidencialista, com o Presidente responsável pelas funções estratégicas e um Primeiro-Ministro conduzindo a administração, apoiado pela maioria parlamentar.", "paginas": [60, 63, 64]},
+      {"proposta": "Reformar o STF, estabelecendo mandato de oito anos para ministros, idade mínima de 50 anos, composição de nove ministros (mínimo três mulheres) escolhidos pelas respectivas classes jurídicas e não pelo presidente.", "paginas": [60, 64]},
+      {"proposta": "Implantar o Projeto Mulheres Vivas como política permanente de Estado de prevenção ao feminicídio, com tecnologia de resposta rápida, autonomia econômica, igualdade salarial e de crédito e priorização de mulheres para vagas no STF.", "paginas": [86, 87, 89, 93]}
+    ],
+    "Cultura, Esporte e Turismo": [
+      {"proposta": "Tratar a cultura brasileira como ativo estratégico, incentivando a produção artística, audiovisual, musical, literária e digital e fortalecendo a identidade nacional.", "paginas": [62]},
+      {"proposta": "Impulsionar a economia criativa como setor estratégico de geração de empregos, inovação e exportação de conteúdo cultural brasileiro.", "paginas": [62]},
+      {"proposta": "Preservar e restaurar o patrimônio histórico e cultural, garantindo a memória nacional.", "paginas": [63]},
+      {"proposta": "Criar duas 'Black Weeks' internacionais do turismo brasileiro por ano, com forte redução de preços em parceria com companhias aéreas, hotéis e operadoras para aumentar o fluxo turístico e reposicionar a imagem do país.", "paginas": [149, 150]},
+      {"proposta": "Incentivar o turismo rural e o agroturismo como instrumentos de diversificação de renda e valorização das propriedades rurais e da cultura do campo.", "paginas": [49]},
+      {"proposta": "Estimular o turismo rodoviário e a cultura local por meio dos polos do Projeto BEE, valorizando produtos regionais, artesanato e identidade cultural ao longo das estradas.", "paginas": [121, 123]}
+    ]
+  }
+}
