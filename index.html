@@ -45,6 +45,22 @@
   input[type=search]{min-width:280px}
   select:focus,input:focus{outline:2px solid var(--accent);border-color:var(--accent)}
   .count{margin-left:auto;color:var(--muted);font-size:.85rem}
+
+  /* multi-select de candidatos via checkboxes */
+  .field-cand{flex:1 1 auto}
+  .cand-actions{text-transform:none;letter-spacing:0}
+  .linkbtn{background:none;border:none;color:var(--accent);cursor:pointer;font-size:.72rem;padding:0}
+  .linkbtn:hover{text-decoration:underline}
+  .cand-checks{display:flex;flex-wrap:wrap;gap:6px}
+  .cand-checks label{
+    display:flex;align-items:center;gap:7px;cursor:pointer;user-select:none;
+    background:var(--panel);border:1px solid var(--border);border-radius:999px;
+    padding:7px 12px;font-size:.85rem;white-space:nowrap;
+    border-left:4px solid var(--cand-color,var(--accent));
+  }
+  .cand-checks label:hover{border-color:var(--accent)}
+  .cand-checks input{width:15px;height:15px;accent-color:var(--cand-color,var(--accent));cursor:pointer;margin:0}
+  .cand-checks label.off{opacity:.5}
   .btn{
     background:var(--chip);border:1px solid var(--border);color:var(--txt);
     padding:9px 13px;border-radius:8px;cursor:pointer;font-size:.9rem
@@ -169,9 +185,9 @@
         <label for="tema">Eixo temático</label>
         <select id="tema"><option value="__all__">Todos os eixos</option></select>
       </div>
-      <div class="field">
-        <label for="cand">Candidato</label>
-        <select id="cand"><option value="__all__">Todos os candidatos</option></select>
+      <div class="field field-cand">
+        <label>Candidatos <span class="cand-actions"><button type="button" class="linkbtn" id="candAll">todos</button> · <button type="button" class="linkbtn" id="candNone">limpar</button></span></label>
+        <div id="cand" class="cand-checks"></div>
       </div>
       <div class="field">
         <label for="busca">Buscar na proposta</label>
@@ -212,8 +228,24 @@ const THEMES = Object.keys(DATA[0].eixos);
 // build controls
 const temaSel = document.getElementById('tema');
 THEMES.forEach(t=>{const o=document.createElement('option');o.value=t;o.textContent=t;temaSel.appendChild(o);});
-const candSel = document.getElementById('cand');
-DATA.forEach((c,i)=>{const o=document.createElement('option');o.value=String(i);o.textContent=`${c.candidato} (${c.partido})`;candSel.appendChild(o);});
+const candBox = document.getElementById('cand');
+DATA.forEach((c,i)=>{
+  const lbl=document.createElement('label');
+  lbl.style.setProperty('--cand-color',COLORS[i]);
+  lbl.innerHTML=`<input type="checkbox" value="${i}" checked> ${esc(c.candidato)} <span style="color:var(--muted)">${esc(c.partido)}</span>`;
+  const input=lbl.querySelector('input');
+  input.addEventListener('change',()=>{ lbl.classList.toggle('off',!input.checked); render(); });
+  candBox.appendChild(lbl);
+});
+function selectedCandIdx(){
+  return Array.from(candBox.querySelectorAll('input:checked')).map(i=>parseInt(i.value,10));
+}
+function setAllCands(on){
+  candBox.querySelectorAll('input').forEach(i=>{ i.checked=on; i.closest('label').classList.toggle('off',!on); });
+  render();
+}
+document.getElementById('candAll').addEventListener('click',()=>setAllCands(true));
+document.getElementById('candNone').addEventListener('click',()=>setAllCands(false));
 
 // legend + sources
 const legend = document.getElementById('legend');
@@ -238,11 +270,17 @@ function pageLabel(p){return p.length>1?('p. '+p.join('–')):('p. '+p[0]);}
 const app=document.getElementById('app');
 
 function render(){
-  const temaF=temaSel.value, candF=candSel.value, q=document.getElementById('busca').value.trim();
+  const temaF=temaSel.value, q=document.getElementById('busca').value.trim();
   const themes = temaF==='__all__'?THEMES:[temaF];
-  const candIdx = candF==='__all__'?DATA.map((_,i)=>i):[parseInt(candF,10)];
+  const candIdx = selectedCandIdx();
   app.innerHTML='';
   let shown=0;
+
+  if(candIdx.length===0){
+    app.innerHTML='<p class="empty" style="padding:20px">Selecione ao menos um candidato para exibir as propostas.</p>';
+    document.getElementById('count').textContent='0 proposta(s) exibida(s)';
+    return;
+  }
 
   themes.forEach((theme,ti)=>{
     const block=document.createElement('section');block.className='theme-block';
@@ -295,7 +333,6 @@ function render(){
 }
 
 temaSel.addEventListener('change',render);
-candSel.addEventListener('change',render);
 document.getElementById('busca').addEventListener('input',render);
 document.getElementById('expandAll').addEventListener('click',()=>document.querySelectorAll('.theme-block').forEach(b=>b.classList.remove('collapsed')));
 document.getElementById('collapseAll').addEventListener('click',()=>document.querySelectorAll('.theme-block').forEach(b=>b.classList.add('collapsed')));
